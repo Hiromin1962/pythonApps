@@ -1,0 +1,1205 @@
+[2016/02/19 11:18:29.189154]BoxGenDownloader:DEFAULT HOME:rootFolder. BASE_OUTPUT_FOLDER:/Users/hiromi/Documents/eclipse_python/BoxGenManager/results/. START_FOLDER:, MAX_SEARCH_NUM:20, CLIENT_ID:rx48zwkumuhxksnxdeoq7ziwgt8l0tbq, CLIENT_SECRET:yw70fHS5LU8TZFeHFhJXxwEBM0ZjPW8n, OTHER_PORT:
+[2016/02/19 11:18:37.340822]BoxGenDownloader:start folder id is [0]
+[2016/02/19 11:18:37.340990]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder
+[2016/02/19 11:18:37.964153]BoxGenDownloader:The root folder is owned by: okada@futurevision-llc.com
+[2016/02/19 11:18:38.216348]BoxGenDownloader:This is the first 20 items in this folder:すべてのファイル
+[2016/02/19 11:18:38.216457]BoxGenDownloader:1   Box Reports
+[2016/02/19 11:18:38.216535]BoxGenDownloader:call folder walking...next folder name is Box Reports
+[2016/02/19 11:18:38.216724]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/Box Reports
+[2016/02/19 11:18:38.434329]BoxGenDownloader:The root folder is owned by: okada@futurevision-llc.com
+[2016/02/19 11:18:38.659610]BoxGenDownloader:This is the first 20 items in this folder:Box Reports
+[2016/02/19 11:18:38.659724]BoxGenDownloader:2   folder_tree_run_on_2016-01-28__11-35-55.xlsx
+[2016/02/19 11:18:38.892473]BoxGenDownloader:None
+[2016/02/19 11:18:38.892574]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:38.892653]BoxGenDownloader:3   outbound_collabs_run_on_2016-01-28__11-44-03.xlsx
+[2016/02/19 11:18:39.093436]BoxGenDownloader:{u'sha1': u'5409a48b0eb725f1da3c71e1f6d93669d1e914f2', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'outbound_collabs_run_on_2016-01-28__11-44-03.xlsx', u'created_at': u'2016-01-27T18:44:06-08:00', u'modified_at': u'2016-01-27T18:44:06-08:00', u'type': u'file_version', u'id': u'52739012185', u'size': 4057}
+[2016/02/19 11:18:39.093558]BoxGenDownloader:download file is outbound_collabs_run_on_2016-01-28__11-44-03.xlsx
+[2016/02/19 11:18:40.352220]BoxGenDownloader:4   usage_log_run_on_2016-01-28__14-25-06.xlsx
+[2016/02/19 11:18:40.556614]BoxGenDownloader:None
+[2016/02/19 11:18:40.556733]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:40.556916]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder
+[2016/02/19 11:18:40.557018]BoxGenDownloader:5   TEST_FOLDER
+[2016/02/19 11:18:40.557089]BoxGenDownloader:call folder walking...next folder name is TEST_FOLDER
+[2016/02/19 11:18:40.557235]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/TEST_FOLDER
+[2016/02/19 11:18:40.791168]BoxGenDownloader:The root folder is owned by: okada@futurevision-llc.com
+[2016/02/19 11:18:41.009013]BoxGenDownloader:This is the first 20 items in this folder:TEST_FOLDER
+[2016/02/19 11:18:41.009122]BoxGenDownloader:6   INNER FOLDER
+[2016/02/19 11:18:41.009217]BoxGenDownloader:call folder walking...next folder name is INNER FOLDER
+[2016/02/19 11:18:41.009407]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/TEST_FOLDER/INNER FOLDER
+[2016/02/19 11:18:41.217531]BoxGenDownloader:The root folder is owned by: okada@futurevision-llc.com
+[2016/02/19 11:18:41.459886]BoxGenDownloader:This is the first 20 items in this folder:INNER FOLDER
+[2016/02/19 11:18:41.459999]BoxGenDownloader:7   ITEM_Create等イベントのテスト1.docx
+[2016/02/19 11:18:41.716298]BoxGenDownloader:{u'sha1': u'e823d7ca3db006606ff2181080897b14aeeb7c6e', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'ITEM_Create\u7b49\u30a4\u30d8\u3099\u30f3\u30c8\u306e\u30c6\u30b9\u30c81.docx', u'created_at': u'2016-01-27T16:41:29-08:00', u'modified_at': u'2016-01-27T17:15:42-08:00', u'type': u'file_version', u'id': u'52728363405', u'size': 31499}
+[2016/02/19 11:18:41.716422]BoxGenDownloader:download file is ITEM_Create等イベントのテスト1.docx
+[2016/02/19 11:18:42.414190]BoxGenDownloader:8   さあスクリーンショット 2016-01-28 17.47.13.png
+[2016/02/19 11:18:42.659045]BoxGenDownloader:{u'sha1': u'b48fdc9ada8c7bfc75f8c67fa86d505cacf97408', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8 2016-01-28 17.47.13.png', u'created_at': u'2016-01-28T16:59:14-08:00', u'modified_at': u'2016-01-28T16:59:14-08:00', u'type': u'file_version', u'id': u'52884981209', u'size': 1810965}
+[2016/02/19 11:18:42.659263]BoxGenDownloader:download file is スクリーンショット 2016-01-28 17.47.13.png
+[2016/02/19 11:18:48.648195]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/TEST_FOLDER
+[2016/02/19 11:18:48.648331]BoxGenDownloader:9   aaaren_tmp213220199.txt
+[2016/02/19 11:18:48.857531]BoxGenDownloader:{u'sha1': u'ecb252044b5ea0f679ee78ec1a12904739e2904d', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'tmp213220199.txt', u'created_at': u'2014-04-09T01:37:50-07:00', u'modified_at': u'2014-04-09T21:01:12-07:00', u'type': u'file_version', u'id': u'13280868159', u'size': 6}
+[2016/02/19 11:18:48.857666]BoxGenDownloader:download file is tmp213220199.txt
+[2016/02/19 11:18:49.303386]BoxGenDownloader:10   create_doc_test_part.docx
+[2016/02/19 11:18:49.574404]BoxGenDownloader:{u'sha1': u'd63be56ec3d3e071c09177ea37aa639bde3eb96c', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'create_doc_test_part.docx', u'created_at': u'2016-02-03T23:45:22-08:00', u'modified_at': u'2016-02-03T23:45:22-08:00', u'type': u'file_version', u'id': u'53710846437', u'size': 23469}
+[2016/02/19 11:18:49.574524]BoxGenDownloader:download file is create_doc_test_part.docx
+[2016/02/19 11:18:50.326777]BoxGenDownloader:11   Eventの違いメモ.boxnote
+[2016/02/19 11:18:50.512161]BoxGenDownloader:{u'sha1': u'a893fc621d58a65019e5083bb11e992de187ae26', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'Event\u306e\u9055\u3044\u30e1\u30e2.boxnote', u'created_at': u'2016-02-02T14:58:40-08:00', u'modified_at': u'2016-02-02T14:58:40-08:00', u'type': u'file_version', u'id': u'53486758657', u'size': 2390}
+[2016/02/19 11:18:50.512283]BoxGenDownloader:download file is Eventの違いメモ.boxnote
+[2016/02/19 11:18:51.149887]BoxGenDownloader:12   IMG_20140414_145132.jpg
+[2016/02/19 11:18:51.347107]BoxGenDownloader:None
+[2016/02/19 11:18:51.347228]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:51.347302]BoxGenDownloader:13   IMG_20140414_154942.jpg
+[2016/02/19 11:18:51.539742]BoxGenDownloader:None
+[2016/02/19 11:18:51.539840]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:51.539918]BoxGenDownloader:14   tmp801479810.txt
+[2016/02/19 11:18:51.738343]BoxGenDownloader:{u'sha1': u'28ada3213fd3bab36034c35dd576875b4259250b', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'tmp801479810.txt', u'created_at': u'2016-02-05T00:10:49-08:00', u'modified_at': u'2016-02-05T00:10:49-08:00', u'type': u'file_version', u'id': u'53885033569', u'size': 124}
+[2016/02/19 11:18:51.738465]BoxGenDownloader:download file is tmp801479810.txt
+[2016/02/19 11:18:52.365604]BoxGenDownloader:15   スクリーンショット 2016-02-10 9.29.27.png
+[2016/02/19 11:18:52.556984]BoxGenDownloader:None
+[2016/02/19 11:18:52.557085]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:52.557256]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder
+[2016/02/19 11:18:52.557370]BoxGenDownloader:16   ナレッジ
+[2016/02/19 11:18:52.557439]BoxGenDownloader:call folder walking...next folder name is ナレッジ
+[2016/02/19 11:18:52.557694]BoxGenDownloader:Created Folder :ナレッジ
+[2016/02/19 11:18:52.557859]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/ナレッジ
+[2016/02/19 11:18:52.823629]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:18:53.057018]BoxGenDownloader:This is the first 20 items in this folder:ナレッジ
+[2016/02/19 11:18:53.057125]BoxGenDownloader:17   Tips
+[2016/02/19 11:18:53.057200]BoxGenDownloader:call folder walking...next folder name is Tips
+[2016/02/19 11:18:53.057456]BoxGenDownloader:Created Folder :Tips
+[2016/02/19 11:18:53.057634]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/ナレッジ/Tips
+[2016/02/19 11:18:53.295014]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:18:53.507644]BoxGenDownloader:This is the first 20 items in this folder:Tips
+[2016/02/19 11:18:53.507840]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/ナレッジ
+[2016/02/19 11:18:53.507930]BoxGenDownloader:18   構成
+[2016/02/19 11:18:53.507999]BoxGenDownloader:call folder walking...next folder name is 構成
+[2016/02/19 11:18:53.508224]BoxGenDownloader:Created Folder :構成
+[2016/02/19 11:18:53.508360]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/ナレッジ/構成
+[2016/02/19 11:18:53.784670]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:18:54.001894]BoxGenDownloader:This is the first 20 items in this folder:構成
+[2016/02/19 11:18:54.002007]BoxGenDownloader:19   Splunk ハードウェア基本構成案_v1.0.pptx
+[2016/02/19 11:18:54.225854]BoxGenDownloader:None
+[2016/02/19 11:18:54.225961]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:54.226037]BoxGenDownloader:20   Splunk ハードウェア拡張構成案_v1.4.pptx
+[2016/02/19 11:18:54.482964]BoxGenDownloader:None
+[2016/02/19 11:18:54.483070]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:54.483144]BoxGenDownloader:21   Splunk要求仕様について_v1.5.pptx
+[2016/02/19 11:18:54.702841]BoxGenDownloader:None
+[2016/02/19 11:18:54.702961]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:54.703039]BoxGenDownloader:22   クラスタ構成設定資料_20141128.pptx
+[2016/02/19 11:18:54.936776]BoxGenDownloader:None
+[2016/02/19 11:18:54.936890]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:54.937089]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/ナレッジ
+[2016/02/19 11:18:54.937195]BoxGenDownloader:23   設定
+[2016/02/19 11:18:54.937264]BoxGenDownloader:call folder walking...next folder name is 設定
+[2016/02/19 11:18:54.938276]BoxGenDownloader:Created Folder :設定
+[2016/02/19 11:18:54.938425]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/ナレッジ/設定
+[2016/02/19 11:18:55.876816]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:18:56.163178]BoxGenDownloader:This is the first 20 items in this folder:設定
+[2016/02/19 11:18:56.163291]BoxGenDownloader:24   1つのイベントを複数のイベントに分割する_20130228.pptx
+[2016/02/19 11:18:56.397779]BoxGenDownloader:None
+[2016/02/19 11:18:56.397884]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:56.397959]BoxGenDownloader:25   1つのファイルから複数のソースタイプを設定する方法_20120412.ppt
+[2016/02/19 11:18:56.599492]BoxGenDownloader:None
+[2016/02/19 11:18:56.599648]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:56.599780]BoxGenDownloader:26   1つのファイルから複数のソースタイプを設定する方法_20141118.ppt
+[2016/02/19 11:18:56.824195]BoxGenDownloader:None
+[2016/02/19 11:18:56.824302]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:56.824377]BoxGenDownloader:27   1つのレポートを異なる表現で同時に表現したダッシュボード作成方法.pptx
+[2016/02/19 11:18:57.058524]BoxGenDownloader:None
+[2016/02/19 11:18:57.058624]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:57.058703]BoxGenDownloader:28   1日当たりのログ取り込み量によるアラート設定手順_20140124.pptx
+[2016/02/19 11:18:57.511729]BoxGenDownloader:None
+[2016/02/19 11:18:57.511829]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:57.511908]BoxGenDownloader:29   Advanced_XMLの先頭モジュールの意味_20140207.txt
+[2016/02/19 11:18:57.778524]BoxGenDownloader:None
+[2016/02/19 11:18:57.778635]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:57.778733]BoxGenDownloader:30   AD認証設定サンプル画面ver5_20130531.pptx
+[2016/02/19 11:18:58.000073]BoxGenDownloader:None
+[2016/02/19 11:18:58.000174]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:58.000254]BoxGenDownloader:31   AD認証設定サンプル画面ver6_20131226.pptx
+[2016/02/19 11:18:58.330936]BoxGenDownloader:None
+[2016/02/19 11:18:58.331036]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:58.331114]BoxGenDownloader:32   audit.logの注意点.txt
+[2016/02/19 11:18:58.749517]BoxGenDownloader:None
+[2016/02/19 11:18:58.749636]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:58.749734]BoxGenDownloader:33   CLIによる検索_20120201.ppt
+[2016/02/19 11:18:59.014827]BoxGenDownloader:None
+[2016/02/19 11:18:59.014925]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:59.015000]BoxGenDownloader:34   csv取り込み手順_20131120.pptx
+[2016/02/19 11:18:59.240041]BoxGenDownloader:None
+[2016/02/19 11:18:59.240141]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:59.240218]BoxGenDownloader:35   editコマンドによるfrozenTimePeriodInSecsの値の変更方法_20121220.txt
+[2016/02/19 11:18:59.468573]BoxGenDownloader:None
+[2016/02/19 11:18:59.468680]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:59.468755]BoxGenDownloader:36   Frozenのログローテーションの考え方_20141117.pdf
+[2016/02/19 11:18:59.677335]BoxGenDownloader:None
+[2016/02/19 11:18:59.677437]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:59.677516]BoxGenDownloader:37   Frozenのログローテーションの考え方_20141117.ppt
+[2016/02/19 11:18:59.918716]BoxGenDownloader:None
+[2016/02/19 11:18:59.918817]BoxGenDownloader:file don't have version
+[2016/02/19 11:18:59.918895]BoxGenDownloader:38   HPVSによる検索高速化手法_20130401.pptx
+[2016/02/19 11:19:00.142778]BoxGenDownloader:None
+[2016/02/19 11:19:00.142884]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:00.142958]BoxGenDownloader:39   ignoreOlderThan設定について_20140508.txt
+[2016/02/19 11:19:00.352259]BoxGenDownloader:None
+[2016/02/19 11:19:00.352359]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:00.352437]BoxGenDownloader:40   IndexerAcknowledgement_20130520.pptx
+[2016/02/19 11:19:00.616499]BoxGenDownloader:None
+[2016/02/19 11:19:00.616606]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:00.616680]BoxGenDownloader:41   inputlookupとsubsearch利用例_20110830.ppt
+[2016/02/19 11:19:00.859936]BoxGenDownloader:None
+[2016/02/19 11:19:00.860054]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:00.860154]BoxGenDownloader:42   inputlookupとsubsearch利用例_20120208.ppt
+[2016/02/19 11:19:01.107794]BoxGenDownloader:None
+[2016/02/19 11:19:01.107866]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:01.107931]BoxGenDownloader:43   inputs.conf-batch利用例_20120418.ppt
+[2016/02/19 11:19:01.331897]BoxGenDownloader:None
+[2016/02/19 11:19:01.332027]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:01.332210]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/ナレッジ
+[2016/02/19 11:19:01.332467]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder
+[2016/02/19 11:19:01.333345]BoxGenDownloader:44   ハンズオン_トレーニング
+[2016/02/19 11:19:01.333419]BoxGenDownloader:call folder walking...next folder name is ハンズオン_トレーニング
+[2016/02/19 11:19:01.333633]BoxGenDownloader:Created Folder :ハンズオン_トレーニング
+[2016/02/19 11:19:01.333789]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/ハンズオン_トレーニング
+[2016/02/19 11:19:01.597017]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:01.915166]BoxGenDownloader:This is the first 20 items in this folder:ハンズオン_トレーニング
+[2016/02/19 11:19:01.915273]BoxGenDownloader:45   トレーニング
+[2016/02/19 11:19:01.915347]BoxGenDownloader:call folder walking...next folder name is トレーニング
+[2016/02/19 11:19:01.915609]BoxGenDownloader:Created Folder :トレーニング
+[2016/02/19 11:19:01.915785]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/ハンズオン_トレーニング/トレーニング
+[2016/02/19 11:19:02.191663]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:02.414681]BoxGenDownloader:This is the first 20 items in this folder:トレーニング
+[2016/02/19 11:19:02.414792]BoxGenDownloader:46   Hunkトレーニング資料_v1.0_20141113.pdf
+[2016/02/19 11:19:02.662761]BoxGenDownloader:None
+[2016/02/19 11:19:02.662868]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:02.662944]BoxGenDownloader:47   Splunk管理者向けトレーニング_v1.13_2015512.pdf
+[2016/02/19 11:19:02.881304]BoxGenDownloader:None
+[2016/02/19 11:19:02.881403]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:02.881588]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/ハンズオン_トレーニング
+[2016/02/19 11:19:02.881686]BoxGenDownloader:48   ハンズオン
+[2016/02/19 11:19:02.881754]BoxGenDownloader:call folder walking...next folder name is ハンズオン
+[2016/02/19 11:19:02.881961]BoxGenDownloader:Created Folder :ハンズオン
+[2016/02/19 11:19:02.882118]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/ハンズオン_トレーニング/ハンズオン
+[2016/02/19 11:19:03.143404]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:03.359726]BoxGenDownloader:This is the first 20 items in this folder:ハンズオン
+[2016/02/19 11:19:03.359832]BoxGenDownloader:49   20141204_Splunkver6.2ハンズオン_1.2.pptx
+[2016/02/19 11:19:03.571437]BoxGenDownloader:None
+[2016/02/19 11:19:03.571541]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:03.571724]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/ハンズオン_トレーニング
+[2016/02/19 11:19:03.571868]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder
+[2016/02/19 11:19:03.571956]BoxGenDownloader:50   フューチャーヴィジョン共有
+[2016/02/19 11:19:03.572023]BoxGenDownloader:call folder walking...next folder name is フューチャーヴィジョン共有
+[2016/02/19 11:19:03.572226]BoxGenDownloader:Created Folder :フューチャーヴィジョン共有
+[2016/02/19 11:19:03.572379]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:19:03.963851]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:04.183510]BoxGenDownloader:This is the first 20 items in this folder:フューチャーヴィジョン共有
+[2016/02/19 11:19:04.183617]BoxGenDownloader:51   FY14-01
+[2016/02/19 11:19:04.183692]BoxGenDownloader:call folder walking...next folder name is FY14-01
+[2016/02/19 11:19:04.183915]BoxGenDownloader:Created Folder :FY14-01
+[2016/02/19 11:19:04.184101]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-01
+[2016/02/19 11:19:04.467600]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:04.760626]BoxGenDownloader:This is the first 20 items in this folder:FY14-01
+[2016/02/19 11:19:04.760792]BoxGenDownloader:52   FY13展示会プレゼン
+[2016/02/19 11:19:04.760912]BoxGenDownloader:call folder walking...next folder name is FY13展示会プレゼン
+[2016/02/19 11:19:04.761195]BoxGenDownloader:Created Folder :FY13展示会プレゼン
+[2016/02/19 11:19:04.761369]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-01/FY13展示会プレゼン
+[2016/02/19 11:19:05.046134]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:05.265920]BoxGenDownloader:This is the first 20 items in this folder:FY13展示会プレゼン
+[2016/02/19 11:19:05.266028]BoxGenDownloader:53   Box general.pptx
+[2016/02/19 11:19:05.479015]BoxGenDownloader:None
+[2016/02/19 11:19:05.479116]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:05.479195]BoxGenDownloader:54   Box Onecloud.pptx
+[2016/02/19 11:19:05.696027]BoxGenDownloader:None
+[2016/02/19 11:19:05.696133]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:05.696206]BoxGenDownloader:55   Box+MobileIron.pptx
+[2016/02/19 11:19:05.930647]BoxGenDownloader:None
+[2016/02/19 11:19:05.930832]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:05.930955]BoxGenDownloader:56   BOX_ID連携_rev1.0.pptx
+[2016/02/19 11:19:06.152510]BoxGenDownloader:None
+[2016/02/19 11:19:06.152632]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:06.152732]BoxGenDownloader:57   Boxのセキュリティについて.pptx
+[2016/02/19 11:19:06.370585]BoxGenDownloader:None
+[2016/02/19 11:19:06.370686]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:06.370928]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-01
+[2016/02/19 11:19:06.371032]BoxGenDownloader:58   BOX調査0.txt
+[2016/02/19 11:19:06.585509]BoxGenDownloader:{u'sha1': u'7df5e4f463b397e01673562d49480d7cc3ec2cd8', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'BOX\u8abf\u67fb0.txt', u'created_at': u'2014-04-03T01:08:48-07:00', u'modified_at': u'2014-04-03T01:08:49-07:00', u'type': u'file_version', u'id': u'13089839695', u'size': 7066}
+[2016/02/19 11:19:06.585643]BoxGenDownloader:download file is BOX調査0.txt
+[2016/02/19 11:19:07.315865]BoxGenDownloader:59   BOX調査1.txt
+[2016/02/19 11:19:07.586353]BoxGenDownloader:{u'sha1': u'5f3a31e81952c22a0e78c0f7176273edd04695e1', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'BOX\u8abf\u67fb1.txt', u'created_at': u'2014-04-03T02:06:25-07:00', u'modified_at': u'2014-04-03T02:06:25-07:00', u'type': u'file_version', u'id': u'13091153939', u'size': 12888}
+[2016/02/19 11:19:07.586485]BoxGenDownloader:download file is BOX調査1.txt
+[2016/02/19 11:19:08.376407]BoxGenDownloader:60   BOX調査2.txt
+[2016/02/19 11:19:08.609523]BoxGenDownloader:{u'sha1': u'd0eedf57fa92bf26f6380f1fcbf83ce48dd1d0a4', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'BOX\u8abf\u67fb2.txt', u'created_at': u'2014-04-03T01:08:52-07:00', u'modified_at': u'2014-04-03T01:08:52-07:00', u'type': u'file_version', u'id': u'13089841113', u'size': 26098}
+[2016/02/19 11:19:08.609653]BoxGenDownloader:download file is BOX調査2.txt
+[2016/02/19 11:19:09.343346]BoxGenDownloader:61   BOX調査3.txt
+[2016/02/19 11:19:09.561214]BoxGenDownloader:{u'sha1': u'ed8b9a23b8a608f2f41b4684fc6989bbd2ee5a44', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'BOX\u8abf\u67fb3.txt', u'created_at': u'2014-04-03T01:08:55-07:00', u'modified_at': u'2014-04-03T01:08:57-07:00', u'type': u'file_version', u'id': u'13089842447', u'size': 19767}
+[2016/02/19 11:19:09.561353]BoxGenDownloader:download file is BOX調査3.txt
+[2016/02/19 11:19:10.386583]BoxGenDownloader:62   FV業務依頼フォーマット_FY14-01.doc
+[2016/02/19 11:19:10.605553]BoxGenDownloader:None
+[2016/02/19 11:19:10.605721]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:10.605859]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:19:10.605965]BoxGenDownloader:63   FY14-02
+[2016/02/19 11:19:10.606034]BoxGenDownloader:call folder walking...next folder name is FY14-02
+[2016/02/19 11:19:10.606206]BoxGenDownloader:Created Folder :FY14-02
+[2016/02/19 11:19:10.606327]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-02
+[2016/02/19 11:19:10.976499]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:11.201084]BoxGenDownloader:This is the first 20 items in this folder:FY14-02
+[2016/02/19 11:19:11.201192]BoxGenDownloader:64   BoxViewApiCodes.zip
+[2016/02/19 11:19:11.423860]BoxGenDownloader:None
+[2016/02/19 11:19:11.423960]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:11.424037]BoxGenDownloader:65   BOX_Preview方法調査.pdf
+[2016/02/19 11:19:11.633520]BoxGenDownloader:{u'sha1': u'9befbc01a40f86ccfbbbc0cdae04652af53b70ab', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'BOX_Preview\u65b9\u6cd5\u8abf\u67fb.pdf', u'created_at': u'2014-04-11T03:53:40-07:00', u'modified_at': u'2014-04-11T03:53:42-07:00', u'type': u'file_version', u'id': u'13357266659', u'size': 375574}
+[2016/02/19 11:19:11.633647]BoxGenDownloader:download file is BOX_Preview方法調査.pdf
+[2016/02/19 11:19:13.335940]BoxGenDownloader:66   Boxのセキュリティについて.pptx
+[2016/02/19 11:19:13.533358]BoxGenDownloader:None
+[2016/02/19 11:19:13.533457]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:13.533531]BoxGenDownloader:67   FV業務依頼フォーマット_FY14-02.doc
+[2016/02/19 11:19:13.753592]BoxGenDownloader:None
+[2016/02/19 11:19:13.753701]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:13.753776]BoxGenDownloader:68   調査アプリ設計.pdf
+[2016/02/19 11:19:13.973461]BoxGenDownloader:{u'sha1': u'96edbfb80d48ea8451fe635d3e1ba2e12804b3af', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'\u8abf\u67fb\u30a2\u30d5\u309a\u30ea\u8a2d\u8a08.pdf', u'created_at': u'2014-04-09T19:35:23-07:00', u'modified_at': u'2014-04-09T19:35:25-07:00', u'type': u'file_version', u'id': u'13311023619', u'size': 237399}
+[2016/02/19 11:19:13.973597]BoxGenDownloader:download file is 調査アプリ設計.pdf
+[2016/02/19 11:19:15.300647]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:19:15.300786]BoxGenDownloader:69   FY14-03-mobileiron
+[2016/02/19 11:19:15.300863]BoxGenDownloader:call folder walking...next folder name is FY14-03-mobileiron
+[2016/02/19 11:19:15.301053]BoxGenDownloader:Created Folder :FY14-03-mobileiron
+[2016/02/19 11:19:15.301193]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-03-mobileiron
+[2016/02/19 11:19:15.637695]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:15.854109]BoxGenDownloader:This is the first 20 items in this folder:FY14-03-mobileiron
+[2016/02/19 11:19:15.854267]BoxGenDownloader:70   androidMobileIromProjects.zip
+[2016/02/19 11:19:16.071063]BoxGenDownloader:None
+[2016/02/19 11:19:16.071186]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:16.071286]BoxGenDownloader:71   MobileIronSimpleApp基本仕様書.pdf
+[2016/02/19 11:19:16.382078]BoxGenDownloader:None
+[2016/02/19 11:19:16.382205]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:16.382285]BoxGenDownloader:72   MobileIron_A4_見開き.pdf
+[2016/02/19 11:19:16.606943]BoxGenDownloader:None
+[2016/02/19 11:19:16.607058]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:16.607159]BoxGenDownloader:73   MobIronSimpleApp.zip
+[2016/02/19 11:19:16.810309]BoxGenDownloader:None
+[2016/02/19 11:19:16.810410]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:16.810488]BoxGenDownloader:74   初回説明資料_01.pptx
+[2016/02/19 11:19:17.022354]BoxGenDownloader:None
+[2016/02/19 11:19:17.022455]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:17.022640]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:19:17.022747]BoxGenDownloader:75   FY14-04
+[2016/02/19 11:19:17.022816]BoxGenDownloader:call folder walking...next folder name is FY14-04
+[2016/02/19 11:19:17.023044]BoxGenDownloader:Created Folder :FY14-04
+[2016/02/19 11:19:17.023186]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-04
+[2016/02/19 11:19:17.303970]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:17.508228]BoxGenDownloader:This is the first 20 items in this folder:FY14-04
+[2016/02/19 11:19:17.508335]BoxGenDownloader:76   FV業務依頼フォーマット_FY14-04.doc
+[2016/02/19 11:19:17.761282]BoxGenDownloader:None
+[2016/02/19 11:19:17.761388]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:17.761463]BoxGenDownloader:77   iOS8新機能調査結果.txt
+[2016/02/19 11:19:17.981381]BoxGenDownloader:None
+[2016/02/19 11:19:17.981487]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:17.981674]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:19:17.981779]BoxGenDownloader:78   FY14-05
+[2016/02/19 11:19:17.981892]BoxGenDownloader:call folder walking...next folder name is FY14-05
+[2016/02/19 11:19:17.982103]BoxGenDownloader:Created Folder :FY14-05
+[2016/02/19 11:19:17.982245]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-05
+[2016/02/19 11:19:18.252018]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:18.517935]BoxGenDownloader:This is the first 20 items in this folder:FY14-05
+[2016/02/19 11:19:18.518044]BoxGenDownloader:79   ActivityLogger機能仕様書.pdf
+[2016/02/19 11:19:18.740097]BoxGenDownloader:None
+[2016/02/19 11:19:18.740225]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:18.740306]BoxGenDownloader:80   FV業務依頼フォーマット_FY14-05.doc
+[2016/02/19 11:19:19.013130]BoxGenDownloader:None
+[2016/02/19 11:19:19.013235]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:19.013336]BoxGenDownloader:81   getLocationOnBG.zip
+[2016/02/19 11:19:19.230393]BoxGenDownloader:None
+[2016/02/19 11:19:19.230497]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:19.230571]BoxGenDownloader:82   helloFlask.zip
+[2016/02/19 11:19:19.448453]BoxGenDownloader:None
+[2016/02/19 11:19:19.448552]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:19.448630]BoxGenDownloader:83   PythonOnHeroku.pdf
+[2016/02/19 11:19:19.668817]BoxGenDownloader:None
+[2016/02/19 11:19:19.668919]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:19.669100]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:19:19.669221]BoxGenDownloader:84   FY14-06
+[2016/02/19 11:19:19.669289]BoxGenDownloader:call folder walking...next folder name is FY14-06
+[2016/02/19 11:19:19.669516]BoxGenDownloader:Created Folder :FY14-06
+[2016/02/19 11:19:19.669655]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-06
+[2016/02/19 11:19:19.947038]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:20.162846]BoxGenDownloader:This is the first 20 items in this folder:FY14-06
+[2016/02/19 11:19:20.162953]BoxGenDownloader:85   FV業務依頼フォーマット_FY14-06.doc
+[2016/02/19 11:19:20.371862]BoxGenDownloader:None
+[2016/02/19 11:19:20.371962]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:20.372039]BoxGenDownloader:86   MacBeacon.zip
+[2016/02/19 11:19:20.583841]BoxGenDownloader:None
+[2016/02/19 11:19:20.583941]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:20.584017]BoxGenDownloader:87   surveyOfiBeacon.pdf
+[2016/02/19 11:19:20.841297]BoxGenDownloader:None
+[2016/02/19 11:19:20.841414]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:20.841512]BoxGenDownloader:88   TrackingBeacon.zip
+[2016/02/19 11:19:21.052513]BoxGenDownloader:None
+[2016/02/19 11:19:21.052614]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:21.052801]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:19:21.052907]BoxGenDownloader:89   FY14-07
+[2016/02/19 11:19:21.052976]BoxGenDownloader:call folder walking...next folder name is FY14-07
+[2016/02/19 11:19:21.053189]BoxGenDownloader:Created Folder :FY14-07
+[2016/02/19 11:19:21.053330]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-07
+[2016/02/19 11:19:21.352317]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:21.566486]BoxGenDownloader:This is the first 20 items in this folder:FY14-07
+[2016/02/19 11:19:21.566594]BoxGenDownloader:90   BoxJavaSDKTest.zip
+[2016/02/19 11:19:21.836625]BoxGenDownloader:None
+[2016/02/19 11:19:21.836757]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:21.836837]BoxGenDownloader:91   boxSfa.zip
+[2016/02/19 11:19:22.051384]BoxGenDownloader:None
+[2016/02/19 11:19:22.051482]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:22.051579]BoxGenDownloader:92   boxSfa_v2.zip
+[2016/02/19 11:19:22.283996]BoxGenDownloader:None
+[2016/02/19 11:19:22.284149]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:22.284238]BoxGenDownloader:93   BoxSFAアプリ公開方法.pdf
+[2016/02/19 11:19:22.537823]BoxGenDownloader:{u'sha1': u'e510c369f84e843a75d227c1c075066d188534e3', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'BoxSFA\u30a2\u30d5\u309a\u30ea\u516c\u958b\u65b9\u6cd5.pdf', u'created_at': u'2014-12-19T02:29:01-08:00', u'modified_at': u'2014-12-19T02:29:01-08:00', u'type': u'file_version', u'id': u'22260270441', u'size': 2916773}
+[2016/02/19 11:19:22.537950]BoxGenDownloader:download file is BoxSFAアプリ公開方法.pdf
+[2016/02/19 11:19:24.959164]BoxGenDownloader:94   BoxSFAクライアント側アプリ実装.pdf
+[2016/02/19 11:19:25.197404]BoxGenDownloader:None
+[2016/02/19 11:19:25.197508]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:25.197606]BoxGenDownloader:95   FV業務依頼フォーマット_FY14-07.doc
+[2016/02/19 11:19:25.435561]BoxGenDownloader:None
+[2016/02/19 11:19:25.435670]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:25.435767]BoxGenDownloader:96   UseBoxForSFA実装.pdf
+[2016/02/19 11:19:25.647482]BoxGenDownloader:None
+[2016/02/19 11:19:25.647583]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:25.647771]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:19:25.647882]BoxGenDownloader:97   FY14-08
+[2016/02/19 11:19:25.647953]BoxGenDownloader:call folder walking...next folder name is FY14-08
+[2016/02/19 11:19:25.648234]BoxGenDownloader:Created Folder :FY14-08
+[2016/02/19 11:19:25.648377]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-08
+[2016/02/19 11:19:26.083023]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:19:26.302460]BoxGenDownloader:This is the first 20 items in this folder:FY14-08
+[2016/02/19 11:19:26.302567]BoxGenDownloader:98   BMCFootPrintsServiceCoreProductDocumentation12.0.0.pdf
+[2016/02/19 11:19:26.536139]BoxGenDownloader:None
+[2016/02/19 11:19:26.536245]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:26.536320]BoxGenDownloader:99   FP12エラー報告.pdf
+[2016/02/19 11:19:26.860104]BoxGenDownloader:{u'sha1': u'7e5983462cc294ae7f65fc6878b16eb0c4dd36e6', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'FP12\u30a8\u30e9\u30fc\u5831\u544a.pdf', u'created_at': u'2014-08-20T17:25:37-07:00', u'modified_at': u'2014-08-20T17:25:37-07:00', u'type': u'file_version', u'id': u'17788694271', u'size': 7243499}
+[2016/02/19 11:19:26.860228]BoxGenDownloader:download file is FP12エラー報告.pdf
+[2016/02/19 11:19:29.832135]BoxGenDownloader:100   FP12エラー報告.xlsx
+[2016/02/19 11:19:30.049483]BoxGenDownloader:{u'sha1': u'0be3156d3db19ae9f97165f7360b4498fe161795', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'FP12\u30a8\u30e9\u30fc\u5831\u544a.xlsx', u'created_at': u'2014-08-20T17:26:17-07:00', u'modified_at': u'2014-08-20T17:26:17-07:00', u'type': u'file_version', u'id': u'17788711961', u'size': 20669525}
+[2016/02/19 11:19:30.049606]BoxGenDownloader:download file is FP12エラー報告.xlsx
+[2016/02/19 11:19:34.043881]BoxGenDownloader:101   FP12確認作業.pdf
+[2016/02/19 11:19:34.261834]BoxGenDownloader:None
+[2016/02/19 11:19:34.262039]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:34.262340]BoxGenDownloader:102   FV業務依頼フォーマット_FY14-08.doc
+[2016/02/19 11:19:34.525383]BoxGenDownloader:None
+[2016/02/19 11:19:34.525491]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:34.525566]BoxGenDownloader:103   newコンタクト情報.csv
+[2016/02/19 11:19:34.744843]BoxGenDownloader:None
+[2016/02/19 11:19:34.744995]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:34.745161]BoxGenDownloader:104   new案件データ.csv
+[2016/02/19 11:19:34.954931]BoxGenDownloader:None
+[2016/02/19 11:19:34.955031]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:34.955108]BoxGenDownloader:105   RapidTracker9.0_Self-Learning.pdf
+[2016/02/19 11:19:35.174406]BoxGenDownloader:None
+[2016/02/19 11:19:35.174508]BoxGenDownloader:file don't have version
+[2016/02/19 11:19:35.174607]BoxGenDownloader:106   RT9-FP12機能比較.xlsx
+[2016/02/19 11:19:35.450667]BoxGenDownloader:{u'sha1': u'9e5558eb603082e7fe78002abfb84e00fa108685', u'modified_by': {u'login': u'kueda@macnica.net', u'type': u'user', u'id': u'206698682', u'name': u'Koichi Ueda'}, u'name': u'RT9-FP12\u6a5f\u80fd\u6bd4\u8f03.xlsx', u'created_at': u'2014-06-20T02:59:38-07:00', u'modified_at': u'2014-06-20T02:59:38-07:00', u'type': u'file_version', u'id': u'15719477880', u'size': 52726}
+[2016/02/19 11:19:35.450790]BoxGenDownloader:download file is RT9-FP12機能比較.xlsx
+[2016/02/19 11:19:36.654119]BoxGenDownloader:107   RT9とFP12の違い.xlsx
+[2016/02/19 11:20:02.499593]BoxGenDownloader:None
+[2016/02/19 11:20:02.499719]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:02.499799]BoxGenDownloader:108   エスカレーションルール一覧.pdf
+[2016/02/19 11:20:02.762628]BoxGenDownloader:None
+[2016/02/19 11:20:02.762791]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:02.762972]BoxGenDownloader:109   エスカレーションルール一覧.xlsx
+[2016/02/19 11:20:02.973226]BoxGenDownloader:None
+[2016/02/19 11:20:02.973360]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:02.973444]BoxGenDownloader:110   コンタクト情報.csv
+[2016/02/19 11:20:03.195626]BoxGenDownloader:None
+[2016/02/19 11:20:03.195759]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:03.195857]BoxGenDownloader:111   プロジェクト移築作業報告書.pdf
+[2016/02/19 11:20:03.408200]BoxGenDownloader:None
+[2016/02/19 11:20:03.408300]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:03.408379]BoxGenDownloader:112   メールテンプレート設定一覧.pdf
+[2016/02/19 11:20:03.655284]BoxGenDownloader:None
+[2016/02/19 11:20:03.655407]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:03.655506]BoxGenDownloader:113   メールテンプレート設定一覧.xlsx
+[2016/02/19 11:20:03.868062]BoxGenDownloader:None
+[2016/02/19 11:20:03.868220]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:03.868335]BoxGenDownloader:114   ユーザ設定.pdf
+[2016/02/19 11:20:04.070691]BoxGenDownloader:None
+[2016/02/19 11:20:04.070799]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:04.070894]BoxGenDownloader:115   ユーザ設定.xlsx
+[2016/02/19 11:20:04.278271]BoxGenDownloader:None
+[2016/02/19 11:20:04.278422]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:04.278568]BoxGenDownloader:116   レポート&検索設定一覧.pdf
+[2016/02/19 11:20:04.504135]BoxGenDownloader:None
+[2016/02/19 11:20:04.504265]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:04.504348]BoxGenDownloader:117   レポート&検索設定一覧.xlsx
+[2016/02/19 11:20:04.719985]BoxGenDownloader:None
+[2016/02/19 11:20:04.720148]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:04.720325]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:20:04.720462]BoxGenDownloader:118   FY14-09
+[2016/02/19 11:20:04.720529]BoxGenDownloader:call folder walking...next folder name is FY14-09
+[2016/02/19 11:20:04.720736]BoxGenDownloader:Created Folder :FY14-09
+[2016/02/19 11:20:04.720875]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-09
+[2016/02/19 11:20:05.097734]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:20:05.507041]BoxGenDownloader:This is the first 20 items in this folder:FY14-09
+[2016/02/19 11:20:05.507149]BoxGenDownloader:119   Zendesk
+[2016/02/19 11:20:05.507244]BoxGenDownloader:call folder walking...next folder name is Zendesk
+[2016/02/19 11:20:05.507513]BoxGenDownloader:Created Folder :Zendesk
+[2016/02/19 11:20:05.507672]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-09/Zendesk
+[2016/02/19 11:20:05.797745]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:20:06.013021]BoxGenDownloader:This is the first 20 items in this folder:Zendesk
+[2016/02/19 11:20:06.013128]BoxGenDownloader:120   1117追加調査.boxnote
+[2016/02/19 11:20:06.234986]BoxGenDownloader:{u'sha1': u'9c7b5dc465422290cfec62da245a4d499ff1ed2e', u'modified_by': {u'login': u'kueda@macnica.net', u'type': u'user', u'id': u'206698682', u'name': u'Koichi Ueda'}, u'name': u'1117\u8ffd\u52a0\u8abf\u67fb.boxnote', u'created_at': u'2014-11-26T16:23:33-08:00', u'modified_at': u'2014-11-26T16:23:35-08:00', u'type': u'file_version', u'id': u'21373112944', u'size': 3356}
+[2016/02/19 11:20:06.235107]BoxGenDownloader:download file is 1117追加調査.boxnote
+[2016/02/19 11:20:06.897739]BoxGenDownloader:121   1127追加調査.boxnote
+[2016/02/19 11:20:07.150060]BoxGenDownloader:{u'sha1': u'c0a5b57a14693518c5d198cfae578974408f80aa', u'modified_by': {u'login': u'kueda@macnica.net', u'type': u'user', u'id': u'206698682', u'name': u'Koichi Ueda'}, u'name': u'1127\u8ffd\u52a0\u8abf\u67fb.boxnote', u'created_at': u'2014-12-04T00:42:26-08:00', u'modified_at': u'2014-12-04T00:42:26-08:00', u'type': u'file_version', u'id': u'21633988279', u'size': 1825}
+[2016/02/19 11:20:07.150179]BoxGenDownloader:download file is 1127追加調査.boxnote
+[2016/02/19 11:20:07.719167]BoxGenDownloader:122   1202補足.boxnote
+[2016/02/19 11:20:07.932956]BoxGenDownloader:{u'sha1': u'fe58b8f85a69786f31197f906a37e8259fd1816d', u'modified_by': {u'login': u'kueda@macnica.net', u'type': u'user', u'id': u'206698682', u'name': u'Koichi Ueda'}, u'name': u'1202\u88dc\u8db3.boxnote', u'created_at': u'2014-12-02T01:45:05-08:00', u'modified_at': u'2014-12-02T01:45:07-08:00', u'type': u'file_version', u'id': u'21544122687', u'size': 2013}
+[2016/02/19 11:20:07.933078]BoxGenDownloader:download file is 1202補足.boxnote
+[2016/02/19 11:20:08.588184]BoxGenDownloader:123   RT9DashBoard.PNG
+[2016/02/19 11:20:08.866382]BoxGenDownloader:None
+[2016/02/19 11:20:08.866483]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:08.866560]BoxGenDownloader:124   ZendeskAPI.zip
+[2016/02/19 11:20:09.142058]BoxGenDownloader:None
+[2016/02/19 11:20:09.142163]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:09.142243]BoxGenDownloader:125   zendeskApp実行ログ.txt
+[2016/02/19 11:20:09.405223]BoxGenDownloader:None
+[2016/02/19 11:20:09.405328]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:09.405403]BoxGenDownloader:126   zendesk_demoシナリオ設計と結果.pdf
+[2016/02/19 11:20:09.631756]BoxGenDownloader:{u'sha1': u'c20b642632960fe2157ca3e12685631b5612af8e', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'zendesk_demo\u30b7\u30ca\u30ea\u30aa\u8a2d\u8a08\u3068\u7d50\u679c.pdf', u'created_at': u'2014-12-03T18:30:54-08:00', u'modified_at': u'2014-12-03T18:30:54-08:00', u'type': u'file_version', u'id': u'21625396527', u'size': 18585394}
+[2016/02/19 11:20:09.631886]BoxGenDownloader:download file is zendesk_demoシナリオ設計と結果.pdf
+[2016/02/19 11:20:15.022818]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-09
+[2016/02/19 11:20:15.022964]BoxGenDownloader:127   FV業務依頼フォーマット_FY14-09.doc
+[2016/02/19 11:20:15.236735]BoxGenDownloader:{u'sha1': u'ed2ba5c765a84122cfc4894be5bc1e8c254273f5', u'modified_by': {u'login': u'kueda@macnica.net', u'type': u'user', u'id': u'206698682', u'name': u'Koichi Ueda'}, u'name': u'FV\u696d\u52d9\u4f9d\u983c\u30d5\u30a9\u30fc\u30de\u30c3\u30c8_FY14-09.doc', u'created_at': u'2014-09-10T05:11:19-07:00', u'modified_at': u'2014-09-10T05:11:19-07:00', u'type': u'file_version', u'id': u'18487654481', u'size': 22016}
+[2016/02/19 11:20:15.236877]BoxGenDownloader:download file is FV業務依頼フォーマット_FY14-09.doc
+[2016/02/19 11:20:16.411486]BoxGenDownloader:128   InstallationandConfigurationGuide.pdf.pdf
+[2016/02/19 11:20:16.633363]BoxGenDownloader:None
+[2016/02/19 11:20:16.633468]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:16.633542]BoxGenDownloader:129   ITIL Problem Implementation.pdf
+[2016/02/19 11:20:16.850695]BoxGenDownloader:None
+[2016/02/19 11:20:16.850799]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:16.850884]BoxGenDownloader:130   MAGI解説書サポート管理編2011.doc
+[2016/02/19 11:20:17.053161]BoxGenDownloader:None
+[2016/02/19 11:20:17.053262]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:17.053340]BoxGenDownloader:131   MAGI解説書サービス管理編2007.doc
+[2016/02/19 11:20:17.326751]BoxGenDownloader:None
+[2016/02/19 11:20:17.326930]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:17.327034]BoxGenDownloader:132   MNCサポートシステム検討.pptx
+[2016/02/19 11:20:17.553851]BoxGenDownloader:None
+[2016/02/19 11:20:17.553971]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:17.554064]BoxGenDownloader:133   OTRS検証報告書.pdf
+[2016/02/19 11:20:17.819771]BoxGenDownloader:None
+[2016/02/19 11:20:17.819871]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:17.820023]BoxGenDownloader:134   Zendesk機能Preチェック.pdf
+[2016/02/19 11:20:18.082401]BoxGenDownloader:None
+[2016/02/19 11:20:18.082551]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:18.082687]BoxGenDownloader:135   サポートシステムイメージ案.pptx
+[2016/02/19 11:20:18.288790]BoxGenDownloader:None
+[2016/02/19 11:20:18.289111]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:18.289321]BoxGenDownloader:136   サポートシステム機能要件_v1.0.xlsx
+[2016/02/19 11:20:18.561391]BoxGenDownloader:None
+[2016/02/19 11:20:18.561551]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:18.561608]BoxGenDownloader:137   機能要件チェック(Zendesk).pdf
+[2016/02/19 11:20:18.770108]BoxGenDownloader:{u'sha1': u'555a3be76b47079f1d40c56b2bd399726c707cb7', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'\u6a5f\u80fd\u8981\u4ef6\u30c1\u30a7\u30c3\u30af(Zendesk).pdf', u'created_at': u'2014-11-13T02:49:12-08:00', u'modified_at': u'2014-11-13T02:49:12-08:00', u'type': u'file_version', u'id': u'20848579003', u'size': 14892210}
+[2016/02/19 11:20:18.770230]BoxGenDownloader:download file is 機能要件チェック(Zendesk).pdf
+[2016/02/19 11:20:22.322573]BoxGenDownloader:138   機能要件チェック.pdf
+[2016/02/19 11:20:22.578209]BoxGenDownloader:{u'sha1': u'54534e547b3f82a7e2b2bdff6b11b888e61c9163', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'\u6a5f\u80fd\u8981\u4ef6\u30c1\u30a7\u30c3\u30af.pdf', u'created_at': u'2014-10-01T21:29:00-07:00', u'modified_at': u'2014-10-01T21:29:00-07:00', u'type': u'file_version', u'id': u'19296066343', u'size': 49403572}
+[2016/02/19 11:20:22.578334]BoxGenDownloader:download file is 機能要件チェック.pdf
+[2016/02/19 11:20:33.246333]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:20:33.246511]BoxGenDownloader:139   FY14-10-mobileiron
+[2016/02/19 11:20:33.246587]BoxGenDownloader:call folder walking...next folder name is FY14-10-mobileiron
+[2016/02/19 11:20:33.246789]BoxGenDownloader:Created Folder :FY14-10-mobileiron
+[2016/02/19 11:20:33.246929]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-10-mobileiron
+[2016/02/19 11:20:33.667265]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:20:33.902667]BoxGenDownloader:This is the first 20 items in this folder:FY14-10-mobileiron
+[2016/02/19 11:20:33.902774]BoxGenDownloader:140   MobileIron-BackupFile
+[2016/02/19 11:20:33.902850]BoxGenDownloader:call folder walking...next folder name is MobileIron-BackupFile
+[2016/02/19 11:20:33.903077]BoxGenDownloader:Created Folder :MobileIron-BackupFile
+[2016/02/19 11:20:33.903236]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-10-mobileiron/MobileIron-BackupFile
+[2016/02/19 11:20:34.167385]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:20:34.392581]BoxGenDownloader:This is the first 20 items in this folder:MobileIron-BackupFile
+[2016/02/19 11:20:34.392693]BoxGenDownloader:141   mi-vsp01.tech.macnica.net-backup-2014-09-30--03-30-00.tgz
+[2016/02/19 11:20:34.600292]BoxGenDownloader:None
+[2016/02/19 11:20:34.600393]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:34.600577]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-10-mobileiron
+[2016/02/19 11:20:34.600691]BoxGenDownloader:142   MobileIron-LogFile
+[2016/02/19 11:20:34.600763]BoxGenDownloader:call folder walking...next folder name is MobileIron-LogFile
+[2016/02/19 11:20:34.600958]BoxGenDownloader:Created Folder :MobileIron-LogFile
+[2016/02/19 11:20:34.601131]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-10-mobileiron/MobileIron-LogFile
+[2016/02/19 11:20:34.881130]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:20:35.157874]BoxGenDownloader:This is the first 20 items in this folder:MobileIron-LogFile
+[2016/02/19 11:20:35.157982]BoxGenDownloader:143   2014-10-17-1413517723468-mi-admin-Ticketnull-mi-sentry02.tech.macnica.net-showtechall.zip
+[2016/02/19 11:20:35.409931]BoxGenDownloader:None
+[2016/02/19 11:20:35.410031]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:35.410108]BoxGenDownloader:144   2014-10-17-1413517835907-mi-admin-Ticketnull-mi-sentry01.tech.macnica.net-showtechall.zip
+[2016/02/19 11:20:35.635854]BoxGenDownloader:None
+[2016/02/19 11:20:35.635974]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:35.636072]BoxGenDownloader:145   showtech-mi-vsp01.tech.macnica.net-10-9-2014-1412834021043.zip
+[2016/02/19 11:20:35.863176]BoxGenDownloader:None
+[2016/02/19 11:20:35.863282]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:35.863543]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-10-mobileiron
+[2016/02/19 11:20:35.863649]BoxGenDownloader:146   サポート
+[2016/02/19 11:20:35.863720]BoxGenDownloader:call folder walking...next folder name is サポート
+[2016/02/19 11:20:35.863955]BoxGenDownloader:Created Folder :サポート
+[2016/02/19 11:20:35.864111]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-10-mobileiron/サポート
+[2016/02/19 11:20:36.193678]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:20:36.509827]BoxGenDownloader:This is the first 20 items in this folder:サポート
+[2016/02/19 11:20:36.509934]BoxGenDownloader:147   20141001_K庁様お打ち合わせ資料.pptx
+[2016/02/19 11:20:36.782750]BoxGenDownloader:None
+[2016/02/19 11:20:36.782849]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:36.782927]BoxGenDownloader:148   75528.htm
+[2016/02/19 11:20:36.999176]BoxGenDownloader:None
+[2016/02/19 11:20:36.999277]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:36.999356]BoxGenDownloader:149   75800.htm
+[2016/02/19 11:20:37.229639]BoxGenDownloader:None
+[2016/02/19 11:20:37.229746]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:37.229820]BoxGenDownloader:150   75824.htm
+[2016/02/19 11:20:37.449019]BoxGenDownloader:None
+[2016/02/19 11:20:37.449140]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:37.449236]BoxGenDownloader:151   MI-K案件-不具合77 (禁止アプリインストール時にAcronisが使えてしまう件）.pptx
+[2016/02/19 11:20:37.664207]BoxGenDownloader:None
+[2016/02/19 11:20:37.664306]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:37.664487]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-10-mobileiron
+[2016/02/19 11:20:37.664593]BoxGenDownloader:152   事前学習タスク
+[2016/02/19 11:20:37.664661]BoxGenDownloader:call folder walking...next folder name is 事前学習タスク
+[2016/02/19 11:20:37.664858]BoxGenDownloader:Created Folder :事前学習タスク
+[2016/02/19 11:20:37.664998]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-10-mobileiron/事前学習タスク
+[2016/02/19 11:20:38.070731]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:20:38.291269]BoxGenDownloader:This is the first 20 items in this folder:事前学習タスク
+[2016/02/19 11:20:38.291376]BoxGenDownloader:153   ConnectCloud評価ガイド-AppConnect-AppTunnel.pdf
+[2016/02/19 11:20:38.512499]BoxGenDownloader:None
+[2016/02/19 11:20:38.512627]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:38.512710]BoxGenDownloader:154   Connected Cloud評価ガイド-基礎編.pdf
+[2016/02/19 11:20:38.819353]BoxGenDownloader:None
+[2016/02/19 11:20:38.819473]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:38.819666]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-10-mobileiron
+[2016/02/19 11:20:38.819763]BoxGenDownloader:155   (MobileIron) Getting Into a Unix Shell In VSP Or Sentry.pdf
+[2016/02/19 11:20:39.078934]BoxGenDownloader:None
+[2016/02/19 11:20:39.079034]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:39.079112]BoxGenDownloader:156   10月分プロジェクト.boxnote
+[2016/02/19 11:20:39.330662]BoxGenDownloader:{u'sha1': u'a2a8a890f2294ed77394da884ac01e07bfc76bc7', u'modified_by': {u'login': u'kueda@macnica.net', u'type': u'user', u'id': u'206698682', u'name': u'Koichi Ueda'}, u'name': u'10\u6708\u5206\u30d7\u30ed\u30b8\u30a7\u30af\u30c8.boxnote', u'created_at': u'2014-10-03T06:34:37-07:00', u'modified_at': u'2014-10-03T06:34:39-07:00', u'type': u'file_version', u'id': u'19347218775', u'size': 2125}
+[2016/02/19 11:20:39.330784]BoxGenDownloader:download file is 10月分プロジェクト.boxnote
+[2016/02/19 11:20:40.139861]BoxGenDownloader:157   CustomPasteboardTester.zip
+[2016/02/19 11:20:40.400550]BoxGenDownloader:None
+[2016/02/19 11:20:40.400650]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:40.400728]BoxGenDownloader:158   Database構造解析.pdf
+[2016/02/19 11:20:40.620645]BoxGenDownloader:None
+[2016/02/19 11:20:40.620750]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:40.620825]BoxGenDownloader:159   Database構造解析.xlsx
+[2016/02/19 11:20:40.833062]BoxGenDownloader:None
+[2016/02/19 11:20:40.833168]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:40.833244]BoxGenDownloader:160   IPCU及びXcideでのログ採取.pdf
+[2016/02/19 11:20:41.069272]BoxGenDownloader:None
+[2016/02/19 11:20:41.069373]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:41.069451]BoxGenDownloader:161   MobileIron Connected Cloud 利用ガイド.txt
+[2016/02/19 11:20:41.286706]BoxGenDownloader:{u'sha1': u'c0b918b268ffd64b3d4f23bb626a4cd2d70a7d81', u'modified_by': {u'login': u'iwasaki-t@macnica.net', u'type': u'user', u'id': u'206701588', u'name': u'Tsubasa Iwasaki'}, u'name': u'MobileIron Connected Cloud \u5229\u7528\u30ac\u30a4\u30c9.txt', u'created_at': u'2014-10-02T20:36:42-07:00', u'modified_at': u'2014-10-02T20:36:42-07:00', u'type': u'file_version', u'id': u'19334410159', u'size': 477}
+[2016/02/19 11:20:41.286846]BoxGenDownloader:download file is MobileIron Connected Cloud 利用ガイド.txt
+[2016/02/19 11:20:41.920335]BoxGenDownloader:162   MobileIron_ER_Diagram.pdf
+[2016/02/19 11:20:42.150961]BoxGenDownloader:None
+[2016/02/19 11:20:42.151061]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:42.151140]BoxGenDownloader:163   MobileIron障害調査リソース全体像.pdf
+[2016/02/19 11:20:42.398536]BoxGenDownloader:None
+[2016/02/19 11:20:42.398642]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:42.398716]BoxGenDownloader:164   PasteboardWatcher.zip
+[2016/02/19 11:20:42.670467]BoxGenDownloader:None
+[2016/02/19 11:20:42.670573]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:42.670648]BoxGenDownloader:165   Pasteboard監視アプリ機能説明書.pdf
+[2016/02/19 11:20:43.040362]BoxGenDownloader:None
+[2016/02/19 11:20:43.040510]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:43.040692]BoxGenDownloader:166   ログとプロパティファイルのリスト.pdf
+[2016/02/19 11:20:43.328082]BoxGenDownloader:None
+[2016/02/19 11:20:43.328183]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:43.328260]BoxGenDownloader:167   ログとプロパティファイルのリスト.xlsx
+[2016/02/19 11:20:43.572935]BoxGenDownloader:{u'sha1': u'3bc7535f1557b1ffbe7baf379391e013cc555831', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'\u30ed\u30af\u3099\u3068\u30d5\u309a\u30ed\u30cf\u309a\u30c6\u30a3\u30d5\u30a1\u30a4\u30eb\u306e\u30ea\u30b9\u30c8.xlsx', u'created_at': u'2014-10-16T03:27:17-07:00', u'modified_at': u'2014-10-16T03:27:17-07:00', u'type': u'file_version', u'id': u'19807653513', u'size': 532503}
+[2016/02/19 11:20:43.573059]BoxGenDownloader:download file is ログとプロパティファイルのリスト.xlsx
+[2016/02/19 11:20:44.755011]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:20:44.755201]BoxGenDownloader:168   FY14-11 MINT
+[2016/02/19 11:20:44.755288]BoxGenDownloader:call folder walking...next folder name is FY14-11 MINT
+[2016/02/19 11:20:44.755551]BoxGenDownloader:Created Folder :FY14-11 MINT
+[2016/02/19 11:20:44.755753]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-11 MINT
+[2016/02/19 11:20:44.994126]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:20:45.218425]BoxGenDownloader:This is the first 20 items in this folder:FY14-11 MINT
+[2016/02/19 11:20:45.218662]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:20:45.218760]BoxGenDownloader:169   FY14-12 FP12
+[2016/02/19 11:20:45.218831]BoxGenDownloader:call folder walking...next folder name is FY14-12 FP12
+[2016/02/19 11:20:45.219043]BoxGenDownloader:Created Folder :FY14-12 FP12
+[2016/02/19 11:20:45.219185]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/FY14-12 FP12
+[2016/02/19 11:20:45.616049]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:20:45.835143]BoxGenDownloader:This is the first 20 items in this folder:FY14-12 FP12
+[2016/02/19 11:20:45.835253]BoxGenDownloader:170   スケジュール.xlsx
+[2016/02/19 11:20:46.265006]BoxGenDownloader:{u'sha1': u'd4e41cbc7b77a91309a9401adfe5c84fdba56da7', u'modified_by': {u'login': u'kawaguchi-k@macnica.net', u'type': u'user', u'id': u'206702838', u'name': u'Koji Kawaguchi'}, u'name': u'\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb.xlsx', u'created_at': u'2015-01-05T03:40:17-08:00', u'modified_at': u'2015-01-05T03:40:17-08:00', u'type': u'file_version', u'id': u'22782660153', u'size': 64853}
+[2016/02/19 11:20:46.265097]BoxGenDownloader:download file is スケジュール.xlsx
+[2016/02/19 11:20:47.132589]BoxGenDownloader:171   データインポートエクスポート評価結果.pdf
+[2016/02/19 11:20:47.356307]BoxGenDownloader:None
+[2016/02/19 11:20:47.356412]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:47.356487]BoxGenDownloader:172   レポート機能評価.pdf
+[2016/02/19 11:20:47.594805]BoxGenDownloader:None
+[2016/02/19 11:20:47.594913]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:47.594987]BoxGenDownloader:173   日本語エスカレーションの評価結果.pdf
+[2016/02/19 11:20:47.812196]BoxGenDownloader:None
+[2016/02/19 11:20:47.812329]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:47.812411]BoxGenDownloader:174   日本語フィールド依存関係評価結果.pdf
+[2016/02/19 11:20:48.028105]BoxGenDownloader:None
+[2016/02/19 11:20:48.028211]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:48.028303]BoxGenDownloader:175   日本語フィールド評価結果.pdf
+[2016/02/19 11:20:48.252297]BoxGenDownloader:None
+[2016/02/19 11:20:48.252392]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:48.252466]BoxGenDownloader:176   日本語メール関連の評価結果.pdf
+[2016/02/19 11:20:48.464313]BoxGenDownloader:None
+[2016/02/19 11:20:48.464416]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:48.464494]BoxGenDownloader:177   日本語受信メール関連の評価結果.pdf
+[2016/02/19 11:20:48.746637]BoxGenDownloader:{u'sha1': u'ab32154b168d584d2b71e3c67b3b51aa47082245', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'\u65e5\u672c\u8a9e\u53d7\u4fe1\u30e1\u30fc\u30eb\u95a2\u9023\u306e\u8a55\u4fa1\u7d50\u679c.pdf', u'created_at': u'2014-12-17T02:15:03-08:00', u'modified_at': u'2014-12-17T02:15:03-08:00', u'type': u'file_version', u'id': u'22163597137', u'size': 2527694}
+[2016/02/19 11:20:48.746776]BoxGenDownloader:download file is 日本語受信メール関連の評価結果.pdf
+[2016/02/19 11:20:50.729872]BoxGenDownloader:178   検索機能評価結果.pdf
+[2016/02/19 11:20:51.017993]BoxGenDownloader:None
+[2016/02/19 11:20:51.018095]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:51.018269]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:20:51.018394]BoxGenDownloader:179   Mission01
+[2016/02/19 11:20:51.018463]BoxGenDownloader:call folder walking...next folder name is Mission01
+[2016/02/19 11:20:51.018708]BoxGenDownloader:Created Folder :Mission01
+[2016/02/19 11:20:51.018850]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/Mission01
+[2016/02/19 11:20:51.384094]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:20:51.608753]BoxGenDownloader:This is the first 20 items in this folder:Mission01
+[2016/02/19 11:20:51.608958]BoxGenDownloader:180   マスター情報
+[2016/02/19 11:20:51.609095]BoxGenDownloader:call folder walking...next folder name is マスター情報
+[2016/02/19 11:20:51.609426]BoxGenDownloader:Created Folder :マスター情報
+[2016/02/19 11:20:51.609576]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/Mission01/マスター情報
+[2016/02/19 11:20:51.876656]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:20:52.149226]BoxGenDownloader:This is the first 20 items in this folder:マスター情報
+[2016/02/19 11:20:52.149334]BoxGenDownloader:181   DTPデータ-サンプル-提供用-20140220.txt
+[2016/02/19 11:20:52.357257]BoxGenDownloader:None
+[2016/02/19 11:20:52.357364]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:52.357439]BoxGenDownloader:182   MIND3_ユーザリスト_2014.01.14.xlsx
+[2016/02/19 11:20:52.638474]BoxGenDownloader:None
+[2016/02/19 11:20:52.638605]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:52.638687]BoxGenDownloader:183   サーバ情報管理システム_201401.xls
+[2016/02/19 11:20:52.872582]BoxGenDownloader:{u'sha1': u'965ef4b62afc05034b7cbd6872be8d2e6ab20eef', u'modified_by': {u'login': u'okachi-h@macnica.net', u'type': u'user', u'id': u'206881420', u'name': u'Hiroshi Okachi'}, u'name': u'\u30b5\u30fc\u30d0\u60c5\u5831\u7ba1\u7406\u30b7\u30b9\u30c6\u30e0_201401.xls', u'created_at': u'2014-03-06T20:17:44-08:00', u'modified_at': u'2014-03-06T20:17:46-08:00', u'type': u'file_version', u'id': u'12174847412', u'size': 327168}
+[2016/02/19 11:20:52.872714]BoxGenDownloader:download file is サーバ情報管理システム_201401.xls
+[2016/02/19 11:20:54.395445]BoxGenDownloader:184   セグメント管理台帳.xlsx
+[2016/02/19 11:20:54.671680]BoxGenDownloader:None
+[2016/02/19 11:20:54.671789]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:54.671981]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/Mission01
+[2016/02/19 11:20:54.672085]BoxGenDownloader:185   CentOS5での環境設定.docx
+[2016/02/19 11:20:54.978322]BoxGenDownloader:None
+[2016/02/19 11:20:54.978428]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:54.978504]BoxGenDownloader:186   CentOS5での環境設定.pdf
+[2016/02/19 11:20:55.199468]BoxGenDownloader:{u'sha1': u'db57692c73a4797be517865ca1e85cae02357a84', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'CentOS5\u3066\u3099\u306e\u74b0\u5883\u8a2d\u5b9a.pdf', u'created_at': u'2014-03-14T00:21:07-07:00', u'modified_at': u'2014-03-14T00:21:08-07:00', u'type': u'file_version', u'id': u'12411139853', u'size': 183532}
+[2016/02/19 11:20:55.199648]BoxGenDownloader:download file is CentOS5での環境設定.pdf
+[2016/02/19 11:20:56.746286]BoxGenDownloader:187   CentOS6での環境設定.docx
+[2016/02/19 11:20:56.970390]BoxGenDownloader:None
+[2016/02/19 11:20:56.970494]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:56.970574]BoxGenDownloader:188   CentOS6での環境設定.pdf
+[2016/02/19 11:20:57.181290]BoxGenDownloader:None
+[2016/02/19 11:20:57.181398]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:57.181478]BoxGenDownloader:189   ConvertionToolの仕様.txt
+[2016/02/19 11:20:57.403435]BoxGenDownloader:{u'sha1': u'cbc8a06ce380e55776ada5b5d56de14f4798f3c2', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'ConvertionTool\u306e\u4ed5\u69d8.txt', u'created_at': u'2014-03-13T21:10:57-07:00', u'modified_at': u'2014-03-13T21:10:58-07:00', u'type': u'file_version', u'id': u'12407878227', u'size': 5721}
+[2016/02/19 11:20:57.403546]BoxGenDownloader:download file is ConvertionToolの仕様.txt
+[2016/02/19 11:20:58.030246]BoxGenDownloader:190   esm_930_productguide_en-us.pdf
+[2016/02/19 11:20:58.276083]BoxGenDownloader:None
+[2016/02/19 11:20:58.276178]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:58.276268]BoxGenDownloader:191   Excelからimportファイル生成方法の提案.txt
+[2016/02/19 11:20:58.502481]BoxGenDownloader:None
+[2016/02/19 11:20:58.502544]BoxGenDownloader:file don't have version
+[2016/02/19 11:20:58.502617]BoxGenDownloader:192   Mission01.zip
+[2016/02/19 11:20:58.727268]BoxGenDownloader:{u'sha1': u'a35e6c68d44368441a39c6f3b8b4920c1343aaa0', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'Mission01.zip', u'created_at': u'2014-03-19T20:40:36-07:00', u'modified_at': u'2014-03-19T20:40:38-07:00', u'type': u'file_version', u'id': u'12610309433', u'size': 1437449}
+[2016/02/19 11:20:58.727389]BoxGenDownloader:download file is Mission01.zip
+[2016/02/19 11:21:01.119747]BoxGenDownloader:193   お客様環境とマスター情報について.xls
+[2016/02/19 11:21:01.347054]BoxGenDownloader:None
+[2016/02/19 11:21:01.347265]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:01.347435]BoxGenDownloader:194   資産マネージャーのExportImport調査結果.txt
+[2016/02/19 11:21:01.606942]BoxGenDownloader:None
+[2016/02/19 11:21:01.607056]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:01.607230]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:21:01.607371]BoxGenDownloader:195   Mission02
+[2016/02/19 11:21:01.607448]BoxGenDownloader:call folder walking...next folder name is Mission02
+[2016/02/19 11:21:01.607707]BoxGenDownloader:Created Folder :Mission02
+[2016/02/19 11:21:01.607864]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/Mission02
+[2016/02/19 11:21:01.968336]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:21:02.198513]BoxGenDownloader:This is the first 20 items in this folder:Mission02
+[2016/02/19 11:21:02.198622]BoxGenDownloader:196   DE71WebAPIガイド.pdf
+[2016/02/19 11:21:02.456912]BoxGenDownloader:None
+[2016/02/19 11:21:02.457035]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:02.457116]BoxGenDownloader:197   DE71WebAPIガイド（英語）.pdf.pdf
+[2016/02/19 11:21:02.677357]BoxGenDownloader:None
+[2016/02/19 11:21:02.677465]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:02.677540]BoxGenDownloader:198   DEスクリプト処理.xlsx
+[2016/02/19 11:21:02.955413]BoxGenDownloader:None
+[2016/02/19 11:21:02.955516]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:02.955611]BoxGenDownloader:199   EEPC新規インストール方法.pptx
+[2016/02/19 11:21:03.179740]BoxGenDownloader:None
+[2016/02/19 11:21:03.179845]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:03.179919]BoxGenDownloader:200   ePO API Explorer.zip
+[2016/02/19 11:21:03.440411]BoxGenDownloader:None
+[2016/02/19 11:21:03.440539]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:03.440617]BoxGenDownloader:201   ePolicy Orchestrator 5.1.0 Web APIガイド.pdf
+[2016/02/19 11:21:03.667432]BoxGenDownloader:None
+[2016/02/19 11:21:03.667593]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:03.667710]BoxGenDownloader:202   mission02.zip
+[2016/02/19 11:21:03.883668]BoxGenDownloader:{u'sha1': u'c630a203a344ad17197b18c60d6fa5e57cace589', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'mission02.zip', u'created_at': u'2014-03-04T22:43:23-08:00', u'modified_at': u'2014-03-04T22:43:25-08:00', u'type': u'file_version', u'id': u'12098185856', u'size': 53523}
+[2016/02/19 11:21:03.883789]BoxGenDownloader:download file is mission02.zip
+[2016/02/19 11:21:04.910186]BoxGenDownloader:203   python-remote-client.zip
+[2016/02/19 11:21:06.676647]BoxGenDownloader:None
+[2016/02/19 11:21:06.676753]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:06.676826]BoxGenDownloader:204   UserAssign.py
+[2016/02/19 11:21:06.896450]BoxGenDownloader:None
+[2016/02/19 11:21:06.896578]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:06.896677]BoxGenDownloader:205   各ファイルの内容.txt
+[2016/02/19 11:21:07.114512]BoxGenDownloader:None
+[2016/02/19 11:21:07.114639]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:07.114875]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:21:07.114993]BoxGenDownloader:206   Mission03
+[2016/02/19 11:21:07.115063]BoxGenDownloader:call folder walking...next folder name is Mission03
+[2016/02/19 11:21:07.115303]BoxGenDownloader:Created Folder :Mission03
+[2016/02/19 11:21:07.115446]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/Mission03
+[2016/02/19 11:21:07.369422]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:21:07.584212]BoxGenDownloader:This is the first 20 items in this folder:Mission03
+[2016/02/19 11:21:07.584438]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:21:07.584533]BoxGenDownloader:207   Mission04
+[2016/02/19 11:21:07.584605]BoxGenDownloader:call folder walking...next folder name is Mission04
+[2016/02/19 11:21:07.584849]BoxGenDownloader:Created Folder :Mission04
+[2016/02/19 11:21:07.584993]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/Mission04
+[2016/02/19 11:21:08.074375]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:21:08.291330]BoxGenDownloader:This is the first 20 items in this folder:Mission04
+[2016/02/19 11:21:08.291438]BoxGenDownloader:208   FireEyeのイベント一覧2014_03_26.csv
+[2016/02/19 11:21:08.500935]BoxGenDownloader:None
+[2016/02/19 11:21:08.501035]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:08.501124]BoxGenDownloader:209   相関ルール時間設定検査ヒット一覧2014_03_20.csv
+[2016/02/19 11:21:08.726306]BoxGenDownloader:None
+[2016/02/19 11:21:08.726413]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:08.726489]BoxGenDownloader:210   相関ルール過去投入検査ヒット一覧2014_03_20.csv
+[2016/02/19 11:21:08.951031]BoxGenDownloader:None
+[2016/02/19 11:21:08.951157]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:08.951256]BoxGenDownloader:211   相関分析閾値調査手順概要.xlsx
+[2016/02/19 11:21:09.159628]BoxGenDownloader:None
+[2016/02/19 11:21:09.159730]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:09.159814]BoxGenDownloader:212   相関分析閾値調査結果.xlsx
+[2016/02/19 11:21:09.386536]BoxGenDownloader:None
+[2016/02/19 11:21:09.386641]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:09.386847]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:21:09.386959]BoxGenDownloader:213   Mission05
+[2016/02/19 11:21:09.387029]BoxGenDownloader:call folder walking...next folder name is Mission05
+[2016/02/19 11:21:09.387304]BoxGenDownloader:Created Folder :Mission05
+[2016/02/19 11:21:09.387447]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/Mission05
+[2016/02/19 11:21:09.684364]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:21:10.020174]BoxGenDownloader:This is the first 20 items in this folder:Mission05
+[2016/02/19 11:21:10.020281]BoxGenDownloader:214   20140207_ePO4_ANS01866.zip
+[2016/02/19 11:21:10.232315]BoxGenDownloader:None
+[2016/02/19 11:21:10.232419]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:10.232507]BoxGenDownloader:215   20140212_ePO4_ANS01866.zip
+[2016/02/19 11:21:10.504328]BoxGenDownloader:None
+[2016/02/19 11:21:10.504433]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:10.504506]BoxGenDownloader:216   20140214_ePO4_ANS01866.zip
+[2016/02/19 11:21:10.802545]BoxGenDownloader:None
+[2016/02/19 11:21:10.802643]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:10.802738]BoxGenDownloader:217   20140218_ePO4_ANS01866.zip
+[2016/02/19 11:21:11.028647]BoxGenDownloader:None
+[2016/02/19 11:21:11.028746]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:11.028822]BoxGenDownloader:218   20140221_ePO4_ANS01866.zip
+[2016/02/19 11:21:11.232293]BoxGenDownloader:None
+[2016/02/19 11:21:11.232396]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:11.232479]BoxGenDownloader:219   20140225_ePO4_ANS01866.zip
+[2016/02/19 11:21:11.457910]BoxGenDownloader:None
+[2016/02/19 11:21:11.458015]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:11.458091]BoxGenDownloader:220   EPO4.5_基礎概略.ppt
+[2016/02/19 11:21:11.676946]BoxGenDownloader:None
+[2016/02/19 11:21:11.677052]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:11.677126]BoxGenDownloader:221   Mission5詳細説明.txt
+[2016/02/19 11:21:11.943390]BoxGenDownloader:None
+[2016/02/19 11:21:11.943515]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:11.943615]BoxGenDownloader:222   Solidcore_観察_20140212.xlsx
+[2016/02/19 11:21:12.216227]BoxGenDownloader:None
+[2016/02/19 11:21:12.216349]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:12.216443]BoxGenDownloader:223   Solidcore_観察_20140214.xlsx
+[2016/02/19 11:21:12.435521]BoxGenDownloader:None
+[2016/02/19 11:21:12.435628]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:12.435703]BoxGenDownloader:224   Solidcore_観察_20140221.xlsx
+[2016/02/19 11:21:12.634461]BoxGenDownloader:None
+[2016/02/19 11:21:12.634561]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:12.634642]BoxGenDownloader:225   オンサイト_スタンドアローン_McAfee ApplicationControlトレーニングテキスト.ppt
+[2016/02/19 11:21:12.922578]BoxGenDownloader:None
+[2016/02/19 11:21:12.922735]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:12.922823]BoxGenDownloader:226   ログ解析用ePO環境.docx
+[2016/02/19 11:21:13.137779]BoxGenDownloader:{u'sha1': u'19e3577d43b3aaf94886ae8e33206bb26c6daebc', u'modified_by': {u'login': u'koike-t@macnica.net', u'type': u'user', u'id': u'206701484', u'name': u'Taiji Koike'}, u'name': u'\u30ed\u30b0\u89e3\u6790\u7528ePO\u74b0\u5883.docx', u'created_at': u'2014-02-10T04:27:22-08:00', u'modified_at': u'2014-02-10T04:27:22-08:00', u'type': u'file_version', u'id': u'11239646103', u'size': 21342}
+[2016/02/19 11:21:13.137898]BoxGenDownloader:download file is ログ解析用ePO環境.docx
+[2016/02/19 11:21:13.823528]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:21:13.823693]BoxGenDownloader:227   Mission06
+[2016/02/19 11:21:13.823777]BoxGenDownloader:call folder walking...next folder name is Mission06
+[2016/02/19 11:21:13.823970]BoxGenDownloader:Created Folder :Mission06
+[2016/02/19 11:21:13.824110]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/Mission06
+[2016/02/19 11:21:14.120233]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:21:14.361013]BoxGenDownloader:This is the first 20 items in this folder:Mission06
+[2016/02/19 11:21:14.361121]BoxGenDownloader:228   勉強会メモ
+[2016/02/19 11:21:14.361212]BoxGenDownloader:call folder walking...next folder name is 勉強会メモ
+[2016/02/19 11:21:14.361444]BoxGenDownloader:Created Folder :勉強会メモ
+[2016/02/19 11:21:14.361603]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/Mission06/勉強会メモ
+[2016/02/19 11:21:14.684486]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:21:14.906193]BoxGenDownloader:This is the first 20 items in this folder:勉強会メモ
+[2016/02/19 11:21:14.906299]BoxGenDownloader:229   第01回_SIEM基本構成_20131022.txt
+[2016/02/19 11:21:15.118167]BoxGenDownloader:None
+[2016/02/19 11:21:15.118268]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:15.118359]BoxGenDownloader:230   第02回_VAデプロイ_20131023.txt
+[2016/02/19 11:21:15.374651]BoxGenDownloader:None
+[2016/02/19 11:21:15.374770]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:15.374864]BoxGenDownloader:231   第03回_SIEM_PE勉強会_20131024.txt
+[2016/02/19 11:21:15.599607]BoxGenDownloader:None
+[2016/02/19 11:21:15.599707]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:15.599799]BoxGenDownloader:232   第04回_9.3アップデート_20131025.txt
+[2016/02/19 11:21:15.815861]BoxGenDownloader:None
+[2016/02/19 11:21:15.815982]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:15.816078]BoxGenDownloader:233   第05回_ESM設定全般_20131028.txt
+[2016/02/19 11:21:16.037640]BoxGenDownloader:None
+[2016/02/19 11:21:16.037768]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:16.037866]BoxGenDownloader:234   第06回_ESM設定全般_20131029.txt
+[2016/02/19 11:21:16.284483]BoxGenDownloader:None
+[2016/02/19 11:21:16.284633]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:16.284775]BoxGenDownloader:235   第07回_DataSource設定_20131101.txt
+[2016/02/19 11:21:16.552525]BoxGenDownloader:None
+[2016/02/19 11:21:16.552625]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:16.552719]BoxGenDownloader:236   第08回_Focus-Jデモ説明_20131105.txt
+[2016/02/19 11:21:16.762139]BoxGenDownloader:None
+[2016/02/19 11:21:16.762264]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:16.762380]BoxGenDownloader:237   第09回_アラーム設定_20131106.txt
+[2016/02/19 11:21:16.970033]BoxGenDownloader:None
+[2016/02/19 11:21:16.970133]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:16.970252]BoxGenDownloader:238   第10回_アラーム設定2_20131107.txt
+[2016/02/19 11:21:17.188316]BoxGenDownloader:None
+[2016/02/19 11:21:17.188423]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:17.188497]BoxGenDownloader:239   第11回_相関ルール_20131108.txt
+[2016/02/19 11:21:17.424527]BoxGenDownloader:None
+[2016/02/19 11:21:17.424633]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:17.424895]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/Mission06
+[2016/02/19 11:21:17.425016]BoxGenDownloader:240   ds-enterprise-security-manager-integration.pdf
+[2016/02/19 11:21:17.644107]BoxGenDownloader:None
+[2016/02/19 11:21:17.644204]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:17.644296]BoxGenDownloader:241   esm_930_productguide_en-us.pdf
+[2016/02/19 11:21:17.871272]BoxGenDownloader:None
+[2016/02/19 11:21:17.871376]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:17.871448]BoxGenDownloader:242   McAfee SIEM Training 9.0.pptx
+[2016/02/19 11:21:18.083508]BoxGenDownloader:None
+[2016/02/19 11:21:18.083608]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:18.083711]BoxGenDownloader:243   McAfee SIEM勉強会_20130905.pptx
+[2016/02/19 11:21:18.302302]BoxGenDownloader:None
+[2016/02/19 11:21:18.302409]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:18.302482]BoxGenDownloader:244   SIEM_MOVIE_Volume01.mp4
+[2016/02/19 11:21:18.518151]BoxGenDownloader:None
+[2016/02/19 11:21:18.518252]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:18.518345]BoxGenDownloader:245   SIEM_MOVIE_Volume02.mp4
+[2016/02/19 11:21:18.739758]BoxGenDownloader:None
+[2016/02/19 11:21:18.739887]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:18.739969]BoxGenDownloader:246   SIEM基本説明（標的型攻撃から）.pptx
+[2016/02/19 11:21:18.977775]BoxGenDownloader:None
+[2016/02/19 11:21:18.977882]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:18.978065]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:21:18.978195]BoxGenDownloader:247   Mission07
+[2016/02/19 11:21:18.978266]BoxGenDownloader:call folder walking...next folder name is Mission07
+[2016/02/19 11:21:18.978508]BoxGenDownloader:Created Folder :Mission07
+[2016/02/19 11:21:18.978650]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/Mission07
+[2016/02/19 11:21:19.338077]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:21:19.568384]BoxGenDownloader:This is the first 20 items in this folder:Mission07
+[2016/02/19 11:21:19.568492]BoxGenDownloader:248   DataEnrichmentDB連携調査結果.xlsx
+[2016/02/19 11:21:19.783879]BoxGenDownloader:{u'sha1': u'4a0ab5bb8ed808d99a007e79b4a761f99f07aea4', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'DataEnrichmentDB\u9023\u643a\u8abf\u67fb\u7d50\u679c.xlsx', u'created_at': u'2014-03-27T03:08:36-07:00', u'modified_at': u'2014-03-27T03:08:37-07:00', u'type': u'file_version', u'id': u'12856507128', u'size': 1728324}
+[2016/02/19 11:21:19.784024]BoxGenDownloader:download file is DataEnrichmentDB連携調査結果.xlsx
+[2016/02/19 11:21:22.252820]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:21:22.252915]BoxGenDownloader:249   Mission08
+[2016/02/19 11:21:22.252974]BoxGenDownloader:call folder walking...next folder name is Mission08
+[2016/02/19 11:21:22.253116]BoxGenDownloader:Created Folder :Mission08
+[2016/02/19 11:21:22.253211]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有/Mission08
+[2016/02/19 11:21:22.575771]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:21:22.796397]BoxGenDownloader:This is the first 20 items in this folder:Mission08
+[2016/02/19 11:21:22.796510]BoxGenDownloader:250   動的watchlist調査結果.xlsx
+[2016/02/19 11:21:23.010875]BoxGenDownloader:None
+[2016/02/19 11:21:23.011006]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:23.011191]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/フューチャーヴィジョン共有
+[2016/02/19 11:21:23.011336]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder
+[2016/02/19 11:21:23.011461]BoxGenDownloader:251   依頼事項_FV様
+[2016/02/19 11:21:23.011532]BoxGenDownloader:call folder walking...next folder name is 依頼事項_FV様
+[2016/02/19 11:21:23.011814]BoxGenDownloader:Created Folder :依頼事項_FV様
+[2016/02/19 11:21:23.011953]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様
+[2016/02/19 11:21:23.310248]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:21:23.542306]BoxGenDownloader:This is the first 20 items in this folder:依頼事項_FV様
+[2016/02/19 11:21:23.542411]BoxGenDownloader:252   関連ファイル
+[2016/02/19 11:21:23.542505]BoxGenDownloader:call folder walking...next folder name is 関連ファイル
+[2016/02/19 11:21:23.542730]BoxGenDownloader:Created Folder :関連ファイル
+[2016/02/19 11:21:23.542896]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル
+[2016/02/19 11:21:23.813855]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:21:24.253348]BoxGenDownloader:This is the first 20 items in this folder:関連ファイル
+[2016/02/19 11:21:24.253458]BoxGenDownloader:253   No.10
+[2016/02/19 11:21:24.253556]BoxGenDownloader:call folder walking...next folder name is No.10
+[2016/02/19 11:21:24.253833]BoxGenDownloader:Created Folder :No.10
+[2016/02/19 11:21:24.253991]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/No.10
+[2016/02/19 11:21:24.534467]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:21:24.838931]BoxGenDownloader:This is the first 20 items in this folder:No.10
+[2016/02/19 11:21:24.839038]BoxGenDownloader:254   ExecuteSQL.bat
+[2016/02/19 11:21:25.089310]BoxGenDownloader:None
+[2016/02/19 11:21:25.089410]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:25.089514]BoxGenDownloader:255   Splunk for Microsoft SQL Server Add-onの環境構築.pptx
+[2016/02/19 11:21:25.324401]BoxGenDownloader:{u'sha1': u'b6dc4521b334135f3bf296e5acc1be70c964cf0b', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'Splunk for Microsoft SQL Server Add-on\u306e\u74b0\u5883\u69cb\u7bc9.pptx', u'created_at': u'2015-06-17T02:24:40-07:00', u'modified_at': u'2015-06-17T02:24:40-07:00', u'type': u'file_version', u'id': u'31104480387', u'size': 4988257}
+[2016/02/19 11:21:25.324543]BoxGenDownloader:download file is Splunk for Microsoft SQL Server Add-onの環境構築.pptx
+[2016/02/19 11:21:28.126813]BoxGenDownloader:256   SplunkTestDB.bak
+[2016/02/19 11:21:28.350077]BoxGenDownloader:None
+[2016/02/19 11:21:28.350202]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:28.350302]BoxGenDownloader:257   SQL ServerProfilerのトレース取り込みパフォーマンスチェック.xlsx
+[2016/02/19 11:21:28.561630]BoxGenDownloader:None
+[2016/02/19 11:21:28.561730]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:28.561831]BoxGenDownloader:258   SQLServer Profilerのトレースログ採取におけるパフォーマンスの比較結果.pptx
+[2016/02/19 11:21:28.769490]BoxGenDownloader:None
+[2016/02/19 11:21:28.769588]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:28.769785]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル
+[2016/02/19 11:21:28.769893]BoxGenDownloader:259   No.11
+[2016/02/19 11:21:28.769962]BoxGenDownloader:call folder walking...next folder name is No.11
+[2016/02/19 11:21:28.770166]BoxGenDownloader:Created Folder :No.11
+[2016/02/19 11:21:28.770308]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/No.11
+[2016/02/19 11:21:29.073153]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:21:29.342658]BoxGenDownloader:This is the first 20 items in this folder:No.11
+[2016/02/19 11:21:29.342766]BoxGenDownloader:260   GHE_hipchat_jenkinsビルド操作.mov
+[2016/02/19 11:21:29.576146]BoxGenDownloader:{u'sha1': u'18c8d30f43e1690603b0ed849d5b98a6c42ada66', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'GHE_hipchat_jenkins\u30d2\u3099\u30eb\u30c8\u3099\u64cd\u4f5c.mov', u'created_at': u'2015-08-13T03:00:40-07:00', u'modified_at': u'2015-08-13T03:00:40-07:00', u'type': u'file_version', u'id': u'34099359533', u'size': 108336818}
+[2016/02/19 11:21:29.576285]BoxGenDownloader:download file is GHE_hipchat_jenkinsビルド操作.mov
+[2016/02/19 11:21:55.705095]BoxGenDownloader:261   GHE_kandan_jenkinsビルド操作.mov
+[2016/02/19 11:21:55.958400]BoxGenDownloader:None
+[2016/02/19 11:21:55.958564]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:55.958736]BoxGenDownloader:262   GHE_redmine_jenkins連携001.mov
+[2016/02/19 11:21:56.177935]BoxGenDownloader:None
+[2016/02/19 11:21:56.178045]BoxGenDownloader:file don't have version
+[2016/02/19 11:21:56.178121]BoxGenDownloader:263   GHEとjenkins&hipchatとの連携.pptx
+[2016/02/19 11:21:56.412315]BoxGenDownloader:{u'sha1': u'ad5dcd6eb354bc20764c514b9bc886141298bd26', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'GHE\u3068jenkins&hipchat\u3068\u306e\u9023\u643a.pptx', u'created_at': u'2015-08-13T02:57:32-07:00', u'modified_at': u'2015-08-13T02:57:32-07:00', u'type': u'file_version', u'id': u'34099260165', u'size': 7613627}
+[2016/02/19 11:21:56.412453]BoxGenDownloader:download file is GHEとjenkins&hipchatとの連携.pptx
+[2016/02/19 11:22:03.486581]BoxGenDownloader:264   GHEとJenkins&Kandanとの連携.pptx
+[2016/02/19 11:22:03.714216]BoxGenDownloader:{u'sha1': u'7d83c486fd9e4124e3d693ab1c6e2210ba6a2058', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'GHE\u3068Jenkins&Kandan\u3068\u306e\u9023\u643a.pptx', u'created_at': u'2015-08-13T02:57:40-07:00', u'modified_at': u'2015-08-13T02:57:40-07:00', u'type': u'file_version', u'id': u'34099264559', u'size': 4526224}
+[2016/02/19 11:22:03.714358]BoxGenDownloader:download file is GHEとJenkins&Kandanとの連携.pptx
+[2016/02/19 11:22:05.437377]BoxGenDownloader:265   GHEとJenkins(pull request builder)との連携.pptx
+[2016/02/19 11:22:05.647684]BoxGenDownloader:{u'sha1': u'4035df5d13984afe93d40773b92fd9ab453360a5', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'GHE\u3068Jenkins(pull request builder)\u3068\u306e\u9023\u643a.pptx', u'created_at': u'2015-07-29T01:37:07-07:00', u'modified_at': u'2015-07-29T01:37:07-07:00', u'type': u'file_version', u'id': u'33276038535', u'size': 7868743}
+[2016/02/19 11:22:05.647827]BoxGenDownloader:download file is GHEとJenkins(pull request builder)との連携.pptx
+[2016/02/19 11:22:08.132394]BoxGenDownloader:266   GitHub EnterpriseとHipChatとの統合.pptx
+[2016/02/19 11:22:08.357485]BoxGenDownloader:{u'sha1': u'8bfa58b45b773e548ad756816629e42b7c06291c', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'GitHub Enterprise\u3068HipChat\u3068\u306e\u7d71\u5408.pptx', u'created_at': u'2015-08-26T22:43:38-07:00', u'modified_at': u'2015-08-26T22:43:38-07:00', u'type': u'file_version', u'id': u'34893251670', u'size': 14960454}
+[2016/02/19 11:22:08.357620]BoxGenDownloader:download file is GitHub EnterpriseとHipChatとの統合.pptx
+[2016/02/19 11:22:11.148919]BoxGenDownloader:267   Github EnterpriseとJenkinsの統合.pptx
+[2016/02/19 11:22:11.377252]BoxGenDownloader:None
+[2016/02/19 11:22:11.377391]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:11.377565]BoxGenDownloader:268   GitHub EnterpriseとRedmineの統合.pptx
+[2016/02/19 11:22:11.594748]BoxGenDownloader:{u'sha1': u'41de207522b52b4d6f5485077ddbfd950b2a7c72', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'GitHub Enterprise\u3068Redmine\u306e\u7d71\u5408.pptx', u'created_at': u'2015-07-31T03:17:36-07:00', u'modified_at': u'2015-07-31T03:17:36-07:00', u'type': u'file_version', u'id': u'33408163553', u'size': 7644365}
+[2016/02/19 11:22:11.595090]BoxGenDownloader:download file is GitHub EnterpriseとRedmineの統合.pptx
+[2016/02/19 11:22:14.124904]BoxGenDownloader:269   Github_Pull Request_Builder動作.mov
+[2016/02/19 11:22:14.331215]BoxGenDownloader:None
+[2016/02/19 11:22:14.331318]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:14.331424]BoxGenDownloader:270   Redmine連携動作確認001.mov
+[2016/02/19 11:22:14.540710]BoxGenDownloader:None
+[2016/02/19 11:22:14.540816]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:14.541047]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル
+[2016/02/19 11:22:14.541174]BoxGenDownloader:271   No.14
+[2016/02/19 11:22:14.541246]BoxGenDownloader:call folder walking...next folder name is No.14
+[2016/02/19 11:22:14.541490]BoxGenDownloader:Created Folder :No.14
+[2016/02/19 11:22:14.541633]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/No.14
+[2016/02/19 11:22:14.847934]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:22:15.143650]BoxGenDownloader:This is the first 20 items in this folder:No.14
+[2016/02/19 11:22:15.143758]BoxGenDownloader:272   20151117 API更新情報.boxnote
+[2016/02/19 11:22:15.368485]BoxGenDownloader:{u'sha1': u'3adda0a5a35d977bfb97018f3a4b4d85309ad336', u'modified_by': {u'login': u'kueda@macnica.net', u'type': u'user', u'id': u'206698682', u'name': u'Koichi Ueda'}, u'name': u'20151117 API\u66f4\u65b0\u60c5\u5831.boxnote', u'created_at': u'2016-01-31T15:42:34-08:00', u'modified_at': u'2016-01-31T15:42:34-08:00', u'type': u'file_version', u'id': u'53184111541', u'size': 263}
+[2016/02/19 11:22:15.368622]BoxGenDownloader:download file is 20151117 API更新情報.boxnote
+[2016/02/19 11:22:15.987873]BoxGenDownloader:273   Box_1W_events.xlsx
+[2016/02/19 11:22:16.214938]BoxGenDownloader:{u'sha1': u'a0c8bdb8e7292cebdaab10adf7229c6741ee3c6c', u'modified_by': {u'login': u'kueda@macnica.net', u'type': u'user', u'id': u'206698682', u'name': u'Koichi Ueda'}, u'name': u'Box_1W_events.xlsx', u'created_at': u'2016-01-25T16:25:38-08:00', u'modified_at': u'2016-01-25T16:25:38-08:00', u'type': u'file_version', u'id': u'52415901201', u'size': 14437}
+[2016/02/19 11:22:16.215072]BoxGenDownloader:download file is Box_1W_events.xlsx
+[2016/02/19 11:22:17.040394]BoxGenDownloader:274   splunk for box.pdf
+[2016/02/19 11:22:17.264688]BoxGenDownloader:None
+[2016/02/19 11:22:17.264831]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:17.264915]BoxGenDownloader:275   splunkdemo1.pem
+[2016/02/19 11:22:17.480583]BoxGenDownloader:None
+[2016/02/19 11:22:17.480689]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:17.480763]BoxGenDownloader:276   Splunk_add_on_for_splunk使用例.pptx
+[2016/02/19 11:22:17.699599]BoxGenDownloader:{u'sha1': u'436817bdb736717cca5c9b43ee44e1288bacd43c', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'Splunk_add_on_for_splunk\u4f7f\u7528\u4f8b.pptx', u'created_at': u'2016-02-05T00:34:34-08:00', u'modified_at': u'2016-02-05T00:34:34-08:00', u'type': u'file_version', u'id': u'53887007933', u'size': 67939779}
+[2016/02/19 11:22:17.699723]BoxGenDownloader:download file is Splunk_add_on_for_splunk使用例.pptx
+[2016/02/19 11:22:28.996149]BoxGenDownloader:277   splunk_ta_box_huck.tgz
+[2016/02/19 11:22:29.209924]BoxGenDownloader:{u'sha1': u'e38b74f34aba6d563273fdb0f2d41fe7fe9e0dfb', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'splunk_ta_box_huck.tgz', u'created_at': u'2016-02-10T00:06:44-08:00', u'modified_at': u'2016-02-10T00:06:44-08:00', u'type': u'file_version', u'id': u'54537139425', u'size': 11526}
+[2016/02/19 11:22:29.210044]BoxGenDownloader:download file is splunk_ta_box_huck.tgz
+[2016/02/19 11:22:29.964660]BoxGenDownloader:278   特定のイベントを正規表現によりフィルタリングを行い取り込せないようにする手順.txt
+[2016/02/19 11:22:30.266092]BoxGenDownloader:None
+[2016/02/19 11:22:30.266193]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:30.266372]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル
+[2016/02/19 11:22:30.266486]BoxGenDownloader:279   No.16
+[2016/02/19 11:22:30.266554]BoxGenDownloader:call folder walking...next folder name is No.16
+[2016/02/19 11:22:30.267472]BoxGenDownloader:Created Folder :No.16
+[2016/02/19 11:22:30.267620]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/No.16
+[2016/02/19 11:22:30.559610]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:22:30.769140]BoxGenDownloader:This is the first 20 items in this folder:No.16
+[2016/02/19 11:22:30.769248]BoxGenDownloader:280   20151023 WICED Sense Splunk.pptx
+[2016/02/19 11:22:30.977331]BoxGenDownloader:None
+[2016/02/19 11:22:30.977461]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:30.977542]BoxGenDownloader:281   AD4307_jp.pdf
+[2016/02/19 11:22:31.264258]BoxGenDownloader:{u'sha1': u'5681a5815bc34e974764ad8d77a62f49ee1ed9fb', u'modified_by': {u'login': u'kueda@macnica.net', u'type': u'user', u'id': u'206698682', u'name': u'Koichi Ueda'}, u'name': u'AD4307_jp.pdf', u'created_at': u'2016-01-15T01:07:07-08:00', u'modified_at': u'2016-01-15T01:07:07-08:00', u'type': u'file_version', u'id': u'51103844546', u'size': 1043253}
+[2016/02/19 11:22:31.264379]BoxGenDownloader:download file is AD4307_jp.pdf
+[2016/02/19 11:22:32.962766]BoxGenDownloader:282   AN-1023_jp.pdf
+[2016/02/19 11:22:33.179619]BoxGenDownloader:{u'sha1': u'ffc94a3ad8545cfbc90d015dc43b7d1ce605760d', u'modified_by': {u'login': u'kueda@macnica.net', u'type': u'user', u'id': u'206698682', u'name': u'Koichi Ueda'}, u'name': u'AN-1023_jp.pdf', u'created_at': u'2016-01-15T01:07:08-08:00', u'modified_at': u'2016-01-15T01:07:08-08:00', u'type': u'file_version', u'id': u'51103846258', u'size': 693927}
+[2016/02/19 11:22:33.179759]BoxGenDownloader:download file is AN-1023_jp.pdf
+[2016/02/19 11:22:34.223325]BoxGenDownloader:283   wiced-pub2.js
+[2016/02/19 11:22:34.531524]BoxGenDownloader:None
+[2016/02/19 11:22:34.531634]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:34.531760]BoxGenDownloader:284   wiced-sub2.js
+[2016/02/19 11:22:34.802167]BoxGenDownloader:None
+[2016/02/19 11:22:34.802283]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:34.802414]BoxGenDownloader:285   wiced1.log
+[2016/02/19 11:22:35.025762]BoxGenDownloader:None
+[2016/02/19 11:22:35.025868]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:35.026045]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル
+[2016/02/19 11:22:35.026220]BoxGenDownloader:286   No.3
+[2016/02/19 11:22:35.026292]BoxGenDownloader:call folder walking...next folder name is No.3
+[2016/02/19 11:22:35.026536]BoxGenDownloader:Created Folder :No.3
+[2016/02/19 11:22:35.026678]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/No.3
+[2016/02/19 11:22:35.336743]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:22:35.562373]BoxGenDownloader:This is the first 20 items in this folder:No.3
+[2016/02/19 11:22:35.562481]BoxGenDownloader:287   Active Directoryのクエリ参照状況を管理する方法.pptx
+[2016/02/19 11:22:35.781922]BoxGenDownloader:{u'sha1': u'c7838e8fc48ebe6b0a2bf25387e827d0c3140984', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'Active Directory\u306e\u30af\u30a8\u30ea\u53c2\u7167\u72b6\u6cc1\u3092\u7ba1\u7406\u3059\u308b\u65b9\u6cd5.pptx', u'created_at': u'2015-05-11T18:48:34-07:00', u'modified_at': u'2015-05-11T18:48:34-07:00', u'type': u'file_version', u'id': u'28763713725', u'size': 11712196}
+[2016/02/19 11:22:35.782062]BoxGenDownloader:download file is Active Directoryのクエリ参照状況を管理する方法.pptx
+[2016/02/19 11:22:39.059293]BoxGenDownloader:288   DataConverterScripts.zip
+[2016/02/19 11:22:39.344084]BoxGenDownloader:{u'sha1': u'ce6d124321ac50ea12ebc2b9eaea869eeb678441', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'DataConverterScripts.zip', u'created_at': u'2015-05-11T18:50:38-07:00', u'modified_at': u'2015-05-11T18:50:38-07:00', u'type': u'file_version', u'id': u'28763783969', u'size': 32682}
+[2016/02/19 11:22:39.344219]BoxGenDownloader:download file is DataConverterScripts.zip
+[2016/02/19 11:22:40.140154]BoxGenDownloader:289   DCSViewer.tgz
+[2016/02/19 11:22:40.354747]BoxGenDownloader:{u'sha1': u'83a54125c1f8bd2b9313b897d622bc930d5896f2', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'DCSViewer.tgz', u'created_at': u'2015-05-11T19:01:44-07:00', u'modified_at': u'2015-05-11T19:01:44-07:00', u'type': u'file_version', u'id': u'28764162353', u'size': 18999946}
+[2016/02/19 11:22:40.354960]BoxGenDownloader:download file is DCSViewer.tgz
+[2016/02/19 11:22:45.757807]BoxGenDownloader:290   ldapsearch実装不具合一覧.pdf
+[2016/02/19 11:22:45.974636]BoxGenDownloader:None
+[2016/02/19 11:22:45.974737]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:45.974832]BoxGenDownloader:291   logfile3_p1.csv
+[2016/02/19 11:22:46.245029]BoxGenDownloader:None
+[2016/02/19 11:22:46.245129]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:46.245215]BoxGenDownloader:292   logfile3_p2.csv
+[2016/02/19 11:22:46.479191]BoxGenDownloader:None
+[2016/02/19 11:22:46.479292]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:46.479390]BoxGenDownloader:293   logfile3_p3.csv
+[2016/02/19 11:22:46.816704]BoxGenDownloader:None
+[2016/02/19 11:22:46.816863]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:46.816925]BoxGenDownloader:294   pf_collect_data_index.tgz
+[2016/02/19 11:22:47.022913]BoxGenDownloader:None
+[2016/02/19 11:22:47.023071]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:47.023294]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル
+[2016/02/19 11:22:47.023470]BoxGenDownloader:295   No.4
+[2016/02/19 11:22:47.023590]BoxGenDownloader:call folder walking...next folder name is No.4
+[2016/02/19 11:22:47.024025]BoxGenDownloader:Created Folder :No.4
+[2016/02/19 11:22:47.024215]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/No.4
+[2016/02/19 11:22:47.326601]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:22:47.604428]BoxGenDownloader:This is the first 20 items in this folder:No.4
+[2016/02/19 11:22:47.604596]BoxGenDownloader:296   Ver6.2.5
+[2016/02/19 11:22:47.604712]BoxGenDownloader:call folder walking...next folder name is Ver6.2.5
+[2016/02/19 11:22:47.605004]BoxGenDownloader:Created Folder :Ver6.2.5
+[2016/02/19 11:22:47.605197]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/No.4/Ver6.2.5
+[2016/02/19 11:22:47.888938]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:22:48.103936]BoxGenDownloader:This is the first 20 items in this folder:Ver6.2.5
+[2016/02/19 11:22:48.104049]BoxGenDownloader:297   .DS_Store
+[2016/02/19 11:22:48.330263]BoxGenDownloader:None
+[2016/02/19 11:22:48.330369]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:48.330443]BoxGenDownloader:298   appender625.sh
+[2016/02/19 11:22:48.546680]BoxGenDownloader:None
+[2016/02/19 11:22:48.546890]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:48.547006]BoxGenDownloader:299   win_infra_localize625.tar
+[2016/02/19 11:22:48.749126]BoxGenDownloader:None
+[2016/02/19 11:22:48.749226]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:48.749442]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/No.4
+[2016/02/19 11:22:48.749550]BoxGenDownloader:300   Ver6.3.2
+[2016/02/19 11:22:48.749621]BoxGenDownloader:call folder walking...next folder name is Ver6.3.2
+[2016/02/19 11:22:48.749850]BoxGenDownloader:Created Folder :Ver6.3.2
+[2016/02/19 11:22:48.749993]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/No.4/Ver6.3.2
+[2016/02/19 11:22:49.008432]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:22:49.262878]BoxGenDownloader:This is the first 20 items in this folder:Ver6.3.2
+[2016/02/19 11:22:49.262986]BoxGenDownloader:301   appender632.sh
+[2016/02/19 11:22:49.477794]BoxGenDownloader:None
+[2016/02/19 11:22:49.477901]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:49.477976]BoxGenDownloader:302   win_infra_localize632.tar
+[2016/02/19 11:22:49.708868]BoxGenDownloader:None
+[2016/02/19 11:22:49.708991]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:49.709181]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/No.4
+[2016/02/19 11:22:49.709280]BoxGenDownloader:303   AD-Dashboard調査経過整理11_5.pdf
+[2016/02/19 11:22:49.927131]BoxGenDownloader:None
+[2016/02/19 11:22:49.927230]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:49.927323]BoxGenDownloader:304   Splunk App for Windows Infrastructureセットアップ手順書.pptx
+[2016/02/19 11:22:50.128952]BoxGenDownloader:None
+[2016/02/19 11:22:50.129052]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:50.129142]BoxGenDownloader:305   Splunk for Windows Infrastructureにおけるローカライズ例.pptx
+[2016/02/19 11:22:50.349224]BoxGenDownloader:None
+[2016/02/19 11:22:50.349329]BoxGenDownloader:file don't have version
+[2016/02/19 11:22:50.349404]BoxGenDownloader:306   Splunk_app_windows_infrastructure_localize(AD_part).xlsx
+[2016/02/19 11:22:50.577271]BoxGenDownloader:{u'sha1': u'78395e706b3c744156249c5a1a34a2a788cbe8d9', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'Splunk_app_windows_infrastructure_localize(AD_part).xlsx', u'created_at': u'2015-12-09T01:44:01-08:00', u'modified_at': u'2015-12-09T01:44:01-08:00', u'type': u'file_version', u'id': u'47010504757', u'size': 162441937}
+[2016/02/19 11:22:50.577456]BoxGenDownloader:download file is Splunk_app_windows_infrastructure_localize(AD_part).xlsx
+[2016/02/19 11:23:12.856013]BoxGenDownloader:307   Splunk_app_windows_infrastructure_localize(drill down).xlsx
+[2016/02/19 11:23:13.072078]BoxGenDownloader:{u'sha1': u'6b66cdd77f448b77916b6829784179e34ed4c5ea', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'Splunk_app_windows_infrastructure_localize(drill down).xlsx', u'created_at': u'2016-01-14T17:54:59-08:00', u'modified_at': u'2016-01-14T17:54:59-08:00', u'type': u'file_version', u'id': u'51071126570', u'size': 213797884}
+[2016/02/19 11:23:13.072256]BoxGenDownloader:download file is Splunk_app_windows_infrastructure_localize(drill down).xlsx
+[2016/02/19 11:23:55.620468]BoxGenDownloader:308   Splunk_app_windows_infrastructure_localize(WIN_part).xlsx
+[2016/02/19 11:23:55.891144]BoxGenDownloader:None
+[2016/02/19 11:23:55.891255]BoxGenDownloader:file don't have version
+[2016/02/19 11:23:55.891353]BoxGenDownloader:309   windows infrastructure動作チェックリスト.pdf
+[2016/02/19 11:23:56.112298]BoxGenDownloader:None
+[2016/02/19 11:23:56.112456]BoxGenDownloader:file don't have version
+[2016/02/19 11:23:56.112607]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル
+[2016/02/19 11:23:56.112715]BoxGenDownloader:310   No.7
+[2016/02/19 11:23:56.112783]BoxGenDownloader:call folder walking...next folder name is No.7
+[2016/02/19 11:23:56.112960]BoxGenDownloader:Created Folder :No.7
+[2016/02/19 11:23:56.113078]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/No.7
+[2016/02/19 11:23:56.461033]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:23:56.681587]BoxGenDownloader:This is the first 20 items in this folder:No.7
+[2016/02/19 11:23:56.681698]BoxGenDownloader:311   dummyData.csv
+[2016/02/19 11:23:56.924314]BoxGenDownloader:None
+[2016/02/19 11:23:56.924385]BoxGenDownloader:file don't have version
+[2016/02/19 11:23:56.924442]BoxGenDownloader:312   Sampledata.zip
+[2016/02/19 11:23:57.156791]BoxGenDownloader:None
+[2016/02/19 11:23:57.156931]BoxGenDownloader:file don't have version
+[2016/02/19 11:23:57.157014]BoxGenDownloader:313   storyboardカスタマイズ懸念事項.pdf
+[2016/02/19 11:23:57.359130]BoxGenDownloader:None
+[2016/02/19 11:23:57.359198]BoxGenDownloader:file don't have version
+[2016/02/19 11:23:57.359262]BoxGenDownloader:314   testapp.tar.gz
+[2016/02/19 11:23:57.582943]BoxGenDownloader:{u'sha1': u'2bc30fc6e57a4faa2fa87b4ec4abf7ef366ac845', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'testapp.tar.gz', u'created_at': u'2015-03-10T02:56:42-07:00', u'modified_at': u'2015-03-10T02:56:42-07:00', u'type': u'file_version', u'id': u'25741694664', u'size': 14150}
+[2016/02/19 11:23:57.583067]BoxGenDownloader:download file is testapp.tar.gz
+[2016/02/19 11:23:58.399685]BoxGenDownloader:315   test_bubble.tar.gz
+[2016/02/19 11:23:58.620315]BoxGenDownloader:None
+[2016/02/19 11:23:58.620427]BoxGenDownloader:file don't have version
+[2016/02/19 11:23:58.620528]BoxGenDownloader:316   ダッシュボードのカスタマイズ.pptx
+[2016/02/19 11:23:58.843012]BoxGenDownloader:{u'sha1': u'401f7ad17cded1d9dbb22075244f22354d223c1f', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'\u30bf\u3099\u30c3\u30b7\u30e5\u30db\u3099\u30fc\u30c8\u3099\u306e\u30ab\u30b9\u30bf\u30de\u30a4\u30b9\u3099.pptx', u'created_at': u'2015-03-10T02:58:19-07:00', u'modified_at': u'2015-03-10T02:58:19-07:00', u'type': u'file_version', u'id': u'25741742884', u'size': 3971386}
+[2016/02/19 11:23:58.843254]BoxGenDownloader:download file is ダッシュボードのカスタマイズ.pptx
+[2016/02/19 11:24:01.095534]BoxGenDownloader:317   ダッシュボードイメージ.xlsx
+[2016/02/19 11:24:01.306603]BoxGenDownloader:None
+[2016/02/19 11:24:01.306705]BoxGenDownloader:file don't have version
+[2016/02/19 11:24:01.306893]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル
+[2016/02/19 11:24:01.307009]BoxGenDownloader:318   No.9
+[2016/02/19 11:24:01.307078]BoxGenDownloader:call folder walking...next folder name is No.9
+[2016/02/19 11:24:01.307313]BoxGenDownloader:Created Folder :No.9
+[2016/02/19 11:24:01.307455]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/No.9
+[2016/02/19 11:24:01.584278]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:24:01.860612]BoxGenDownloader:This is the first 20 items in this folder:No.9
+[2016/02/19 11:24:01.860720]BoxGenDownloader:319   TruncateTableApp.tgz
+[2016/02/19 11:24:02.090059]BoxGenDownloader:{u'sha1': u'1f5a68db149b0affc98349141ed52009a1e8abc7', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'TruncateTableApp.tgz', u'created_at': u'2015-05-19T00:53:52-07:00', u'modified_at': u'2015-05-19T00:53:52-07:00', u'type': u'file_version', u'id': u'29139260649', u'size': 32266}
+[2016/02/19 11:24:02.090201]BoxGenDownloader:download file is TruncateTableApp.tgz
+[2016/02/19 11:24:02.858743]BoxGenDownloader:320   フィールド値の省略表示機能_実装ファイルの説明.pptx
+[2016/02/19 11:24:03.282655]BoxGenDownloader:None
+[2016/02/19 11:24:03.282831]BoxGenDownloader:file don't have version
+[2016/02/19 11:24:03.283006]BoxGenDownloader:321   フィールド値の省略表示機能の実装.pptx
+[2016/02/19 11:24:03.498485]BoxGenDownloader:{u'sha1': u'e366c0a04c2d78fcc40472e98e2bea7ae65d5d75', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'\u30d5\u30a3\u30fc\u30eb\u30c8\u3099\u5024\u306e\u7701\u7565\u8868\u793a\u6a5f\u80fd\u306e\u5b9f\u88c5.pptx', u'created_at': u'2015-05-14T18:25:00-07:00', u'modified_at': u'2015-05-14T18:25:00-07:00', u'type': u'file_version', u'id': u'28945966427', u'size': 3059234}
+[2016/02/19 11:24:03.498610]BoxGenDownloader:download file is フィールド値の省略表示機能の実装.pptx
+[2016/02/19 11:24:05.427275]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル
+[2016/02/19 11:24:05.427431]BoxGenDownloader:322   Splunk緊急調査_control_export_button
+[2016/02/19 11:24:05.427510]BoxGenDownloader:call folder walking...next folder name is Splunk緊急調査_control_export_button
+[2016/02/19 11:24:05.427741]BoxGenDownloader:Created Folder :Splunk緊急調査_control_export_button
+[2016/02/19 11:24:05.427884]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル/Splunk緊急調査_control_export_button
+[2016/02/19 11:24:05.700732]BoxGenDownloader:The root folder is owned by: boxadmin@macnica.co.jp
+[2016/02/19 11:24:06.011510]BoxGenDownloader:This is the first 20 items in this folder:Splunk緊急調査_control_export_button
+[2016/02/19 11:24:06.011619]BoxGenDownloader:323   controllExportBtn.tgz
+[2016/02/19 11:24:06.230694]BoxGenDownloader:None
+[2016/02/19 11:24:06.230799]BoxGenDownloader:file don't have version
+[2016/02/19 11:24:06.230875]BoxGenDownloader:324   ダッシュボードカスタマイズ-エクスポートボタン表示制御.pptx
+[2016/02/19 11:24:06.440099]BoxGenDownloader:None
+[2016/02/19 11:24:06.440259]BoxGenDownloader:file don't have version
+[2016/02/19 11:24:06.440442]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様/関連ファイル
+[2016/02/19 11:24:06.440688]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder/依頼事項_FV様
+[2016/02/19 11:24:06.440905]BoxGenDownloader:325   Fluentdからログを取り込む方法.pptx
+[2016/02/19 11:24:06.713038]BoxGenDownloader:{u'sha1': u'cb24c931b3fa832d186c146af6ea56fa039b76e2', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'Fluentd\u304b\u3089\u30ed\u30af\u3099\u3092\u53d6\u308a\u8fbc\u3080\u65b9\u6cd5.pptx', u'created_at': u'2015-01-16T00:54:39-08:00', u'modified_at': u'2015-01-16T00:54:39-08:00', u'type': u'file_version', u'id': u'23292224683', u'size': 3197232}
+[2016/02/19 11:24:06.713185]BoxGenDownloader:download file is Fluentdからログを取り込む方法.pptx
+[2016/02/19 11:24:08.873338]BoxGenDownloader:326   Permission deniedへの対応.txt
+[2016/02/19 11:24:09.093536]BoxGenDownloader:{u'sha1': u'90a6ae443c49739aa591176c50e28c88cbf89442', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'Permission denied\u3078\u306e\u5bfe\u5fdc.txt', u'created_at': u'2015-01-20T23:34:25-08:00', u'modified_at': u'2015-01-20T23:34:25-08:00', u'type': u'file_version', u'id': u'23496680647', u'size': 6281}
+[2016/02/19 11:24:09.093624]BoxGenDownloader:download file is Permission deniedへの対応.txt
+[2016/02/19 11:24:09.875765]BoxGenDownloader:327   Splunk Supporting Add-on for Active Directoryの使い方.pptx
+[2016/02/19 11:24:10.094766]BoxGenDownloader:None
+[2016/02/19 11:24:10.094895]BoxGenDownloader:file don't have version
+[2016/02/19 11:24:10.094975]BoxGenDownloader:328   SplunkにおけるSSOの設定.pptx
+[2016/02/19 11:24:10.317195]BoxGenDownloader:{u'sha1': u'd037901a3803c40b3777f82795192eb5758b9561', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'Splunk\u306b\u304a\u3051\u308bSSO\u306e\u8a2d\u5b9a.pptx', u'created_at': u'2015-01-30T01:26:35-08:00', u'modified_at': u'2015-01-30T01:26:35-08:00', u'type': u'file_version', u'id': u'23913776297', u'size': 4476231}
+[2016/02/19 11:24:10.317318]BoxGenDownloader:download file is SplunkにおけるSSOの設定.pptx
+[2016/02/19 11:24:12.687407]BoxGenDownloader:329   splunkを非rootユーザで起動する方法.txt
+[2016/02/19 11:24:12.922751]BoxGenDownloader:{u'sha1': u'886c9cadd0b927af220f368b97143c8d12bffb98', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'splunk\u3092\u975eroot\u30e6\u30fc\u30b5\u3099\u3066\u3099\u8d77\u52d5\u3059\u308b\u65b9\u6cd5.txt', u'created_at': u'2015-01-21T00:11:06-08:00', u'modified_at': u'2015-01-21T00:11:06-08:00', u'type': u'file_version', u'id': u'23497604023', u'size': 9949}
+[2016/02/19 11:24:12.922878]BoxGenDownloader:download file is splunkを非rootユーザで起動する方法.txt
+[2016/02/19 11:24:14.308965]BoxGenDownloader:330   課題管理表_20150106.xlsx
+[2016/02/19 11:24:14.560124]BoxGenDownloader:{u'sha1': u'6db36419672e0128b7753041b9bf3c28e3c1b604', u'modified_by': {u'login': u'onishi-k@macnica.net', u'type': u'user', u'id': u'206700820', u'name': u'Kosuke Onishi'}, u'name': u'\u8ab2\u984c\u7ba1\u7406\u8868_20150106.xlsx', u'created_at': u'2015-07-10T06:27:21-07:00', u'modified_at': u'2015-07-10T06:27:21-07:00', u'type': u'file_version', u'id': u'32287270399', u'size': 29322}
+[2016/02/19 11:24:14.560308]BoxGenDownloader:download file is 課題管理表_20150106.xlsx
+[2016/02/19 11:24:15.309033]BoxGenDownloader:331   資料作成用テンプレート_20141015_16-9.potx
+[2016/02/19 11:24:15.515171]BoxGenDownloader:None
+[2016/02/19 11:24:15.515272]BoxGenDownloader:file don't have version
+[2016/02/19 11:24:15.515460]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/rootFolder
+[2016/02/19 11:24:15.515622]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results
+[2016/02/19 11:24:15.521591]BoxGenDownloader:Generation File DownLoader ended!
