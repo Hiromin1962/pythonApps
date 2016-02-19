@@ -6,6 +6,7 @@ from boxsdk import Client
 from auth import authenticate
 from demo import LogUtils
 from demo import ConfigLoader
+from demo import AppConsts
 import io
 import json
 
@@ -22,6 +23,7 @@ test_count=0
 
 # instantiate log & config manager agent
 log_agent = LogUtils.LogUtils()
+app_consts = AppConsts.AppConst()
 config_agent = None
 
 # store initial values to global vars.
@@ -61,6 +63,7 @@ def printlog(message):
     戻り値；versionが存在する場合は、直近のversion情報、さもなければNone
 """
 def get_version(client, file_id):
+    global app_consts
     # idからファイルインスタンスを生成する
     target_file = client.file(file_id=file_id)
     # get version informations.
@@ -77,7 +80,7 @@ def get_version(client, file_id):
             return None
     except ValueError:
         printlog(response)
-        printlog('convert response to dict error...when get version informations. skip download. sorry.')
+        printlog(app_consts.ERR_CONVERT_JSON)
         return None
 
 """
@@ -121,6 +124,7 @@ def search_folder(client, folder_name):
     戻り値：なし
 """
 def create_previousfile(client, file_id):
+    global app_consts
     # get recently file information. OK!
     recent_ver_info = get_version(client, file_id)
     if recent_ver_info is None:
@@ -133,12 +137,12 @@ def create_previousfile(client, file_id):
         save_file = client.file(file_id=file_id)
 
         file_name = recent_ver_info['name']
-        printlog('download file is '+file_name)
+        printlog(app_consts.DOWN_LOAD_FILEIS+file_name)
         # wbモードでopenしないとtype errorで失敗する。
         with io.open(file_name, 'wb') as dlfile:
             save_file.download_to_version(dlfile, target_id)
     else:
-        printlog('file don\'t have version')
+        printlog(app_consts.FILE_NO_VERSION)
 
 """
     もし存在しなければ、指定された名前のフォルダをローカルに作成します。
@@ -157,11 +161,12 @@ def create_folder(folder_name):
     戻り値：なし
 """
 def check_folder_structures(client, start_folder_id):
-    global test_count
-    printlog('Current folder is ' + os.getcwd())
+    global test_count,app_consts
+
+    printlog(app_consts.CUR_FOLDER_IS + os.getcwd())
     # ローカルなフォルダを作成する必要がある。
     root_folder = client.folder(folder_id=start_folder_id).get()
-    printlog('The root folder is owned by: {0}'.format(root_folder.owned_by['login']))
+    printlog(app_consts.ROOT_OWNER_IS.format(root_folder.owned_by['login']))
     
     # これは各フォルダ毎にmax #件 となる。...
     items = root_folder.get_items(limit=check_max_search_muns(), offset=0)
@@ -169,10 +174,10 @@ def check_folder_structures(client, start_folder_id):
     printlog('This is the first ' + str(MAX_SEARCH_NUMS) + ' items in this folder:' + root_folder.name)
     for item in items:
         test_count += 1
-        printlog(str(test_count) + "   " + item.name)
+        printlog(str(test_count) + " " + item.name)
         # フォルダなら深くダイブする。ファイルならversionの有無をチェックしてDLスル。
         if item.type == 'folder':
-            printlog('call folder walking...next folder name is '+item.name)
+            printlog(app_consts.FOLDER_WALKING + item.name)
             # もしフォルダが存在しなければ作成する
             create_folder(item.name)
             os.chdir(item.name)
@@ -183,7 +188,7 @@ def check_folder_structures(client, start_folder_id):
         else:
             pass
     os.chdir('..')
-    printlog('Current folder is ' + os.getcwd())
+    printlog(app_consts.CUR_FOLDER_IS + os.getcwd())
 
 """
     探索開始フォルダの名前を取得してから、ローカルに同名のフォルダを作成する
@@ -224,11 +229,12 @@ def define_start_folder(client):
     戻り値：なし
 """    
 def run_examples(oauth):
-
+    global app_consts
+    
     client = Client(oauth)
     # TODO start folderが検索できて、かつ、変更できればベストかも。
     start_folder_id = define_start_folder(client)
-    printlog('start folder id is ['+start_folder_id+']')
+    printlog(app_consts.START_FOLDER_ID_IS % (start_folder_id))
 
     # 探索開始フォルダ名を取得して、localにフォルダを作成する。見つからない場合はdocRootを作成して移動する。
     create_start_folder(client, start_folder_id)
@@ -242,29 +248,27 @@ def run_examples(oauth):
     戻り値：値を変更したかどうかを返す。
 """
 def validate_parameters():
-    global MAX_SEARCH_NUMS
-    global DEFAULT_HOME
-    global BASE_OUTPUT
-    global CLIENT_ID
-    global CLIENT_SECRET
+    global MAX_SEARCH_NUMS,DEFAULT_HOME,BASE_OUTPUT,CLIENT_ID,CLIENT_SECRET
+    global app_consts
+    
     change_value = False
     
     if not CLIENT_ID or not CLIENT_SECRET:
-        printlog("必須パラメータ（ClientIdもしくはClientSecret）が足りません")
-        raise Exception("必須パラメータ（ClientIdもしくはClientSecret）が足りません")
+        printlog(app_consts.NO_PARAM_CLIENT)
+        raise Exception(app_consts.NO_PARAM_CLIENT)
     
     if not MAX_SEARCH_NUMS:
-        printlog("オプションパラメータ（MaxSearchNums）が足りません。デフォルト値をセットします。")
+        printlog(app_consts.NO_PARAM_MAXNUM)
         MAX_SEARCH_NUMS=100
         change_value = True
         
     if not DEFAULT_HOME:
-        printlog("オプションパラメータ（DefaultHome）が足りません。デフォルト値をセットします。")
+        printlog(app_consts.NO_PARAN_DEFAULT_HOME)
         DEFAULT_HOME='rootFolder'
         change_value = True
 
     if not BASE_OUTPUT:
-        printlog("オプションパラメータ（OutputFolder）が足りません。デフォルト値をセットします。")
+        printlog(app_consts.NO_PARAN_OUTFOLDER)
         BASE_OUTPUT=os.getcwd()
         change_value = True
         
@@ -287,6 +291,7 @@ def read_config():
     
     config_agent=ConfigLoader.ConfigLoader()
     
+    # settings.iniファイルからreadした属性項目をグローバル変数にセットする。
     DEFAULT_HOME=config_agent.DefaultHome
     BASE_OUTPUT=config_agent.OutputFolder
     START_FOLDER=config_agent.StartFolder
@@ -299,12 +304,13 @@ def read_config():
              % (DEFAULT_HOME,BASE_OUTPUT,START_FOLDER,MAX_SEARCH_NUMS,CLIENT_ID,CLIENT_SECRET,OTHER_PORT))
     # call parameter check...
     changed = validate_parameters()
-    
+    # 変更があった（未指定のためデフォルト値をセットしたケース）場合はログに残す。
     if changed:
         printlog('DEFAULT HOME:%s. BASE_OUTPUT_FOLDER:%s. START_FOLDER:%s, MAX_SEARCH_NUM:%s, CLIENT_ID:%s, CLIENT_SECRET:%s, OTHER_PORT:%s' 
              % (DEFAULT_HOME,BASE_OUTPUT,START_FOLDER,MAX_SEARCH_NUMS,CLIENT_ID,CLIENT_SECRET,OTHER_PORT))
         
 def main():
+    global app_consts
     # read configuration from file.
     read_config()
     # Please notice that you need to put in your client id and client secret in demo/auth.py in order to make this work.
@@ -316,7 +322,7 @@ def main():
 
     # execute restore files.
     run_examples(oauth)
-    printlog('Generation File DownLoader ended!')
+    printlog(app_consts.ENDED)
     
     os._exit(0)
 

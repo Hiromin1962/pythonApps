@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
+encoding//demo/AppConsts.py=utf-8
 encoding//demo/BoxGenDownloader.py=utf-8
 encoding//demo/ConfigLoader.py=utf-8
 encoding//demo/LogUtils.py=utf-8
