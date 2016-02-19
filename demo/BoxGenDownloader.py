@@ -63,7 +63,6 @@ def printlog(message):
     戻り値；versionが存在する場合は、直近のversion情報、さもなければNone
 """
 def get_version(client, file_id):
-    global app_consts
     # idからファイルインスタンスを生成する
     target_file = client.file(file_id=file_id)
     # get version informations.
@@ -75,9 +74,10 @@ def get_version(client, file_id):
         # please check total count. if the value equal 0 then, this file don't have other version.
         count = int(resp_dict['total_count'])
         if count > 0:
-            return resp_dict['entries'][0] #return recently version file information.
+            return resp_dict['entries'][0] #return most recently version file information.
         else:
             return None
+        
     except ValueError:
         printlog(response)
         printlog(app_consts.ERR_CONVERT_JSON)
@@ -109,8 +109,7 @@ def search_folder(client, folder_name):
     )
     for item in search_results:
         item_with_name = item.get(fields=['name'])
-        printlog('matching item: ' + item_with_name.id)
-        printlog('matching item: ' + item_with_name.name)
+        printlog(app_consts.SEARCH_MATCH % (item_with_name.name, item_with_name.id))
         # get version list..OK!
         if item_with_name.name == START_FOLDER:
             return item_with_name.id
@@ -124,13 +123,14 @@ def search_folder(client, folder_name):
     戻り値：なし
 """
 def create_previousfile(client, file_id):
-    global app_consts
     # get recently file information. OK!
     recent_ver_info = get_version(client, file_id)
+    
     if recent_ver_info is None:
-        printlog('None')
+        printlog(app_consts.NO_VER_INFOS)
     else:
         printlog(str(recent_ver_info))
+        
     # download recent version file...
     if recent_ver_info is not None:
         target_id = recent_ver_info['id']
@@ -138,6 +138,7 @@ def create_previousfile(client, file_id):
 
         file_name = recent_ver_info['name']
         printlog(app_consts.DOWN_LOAD_FILEIS+file_name)
+        
         # wbモードでopenしないとtype errorで失敗する。
         with io.open(file_name, 'wb') as dlfile:
             save_file.download_to_version(dlfile, target_id)
@@ -150,9 +151,10 @@ def create_previousfile(client, file_id):
     戻り値：なし
 """              
 def create_folder(folder_name):
+    #フォルダがなけれな作成します。
     if not os.path.exists(folder_name):
         os.mkdir(folder_name)
-        printlog('Created Folder :' + folder_name)
+        printlog(app_consts.CREATED_FOLDER + folder_name)
 
 """
     引数で渡された起点からフォルダ階層を探索して、versionを持つファイルだけをダウンロードします。
@@ -161,7 +163,8 @@ def create_folder(folder_name):
     戻り値：なし
 """
 def check_folder_structures(client, start_folder_id):
-    global test_count,app_consts
+    # test_countはglobal変数を更新するので、global宣言を追加する。
+    global test_count
 
     printlog(app_consts.CUR_FOLDER_IS + os.getcwd())
     # ローカルなフォルダを作成する必要がある。
@@ -171,7 +174,7 @@ def check_folder_structures(client, start_folder_id):
     # これは各フォルダ毎にmax #件 となる。...
     items = root_folder.get_items(limit=check_max_search_muns(), offset=0)
         
-    printlog('This is the first ' + str(MAX_SEARCH_NUMS) + ' items in this folder:' + root_folder.name)
+    printlog(app_consts.FOLDER_ITEM_LIMITS % (str(MAX_SEARCH_NUMS),root_folder.name))
     for item in items:
         test_count += 1
         printlog(str(test_count) + " " + item.name)
@@ -198,12 +201,13 @@ def check_folder_structures(client, start_folder_id):
 """
 def create_start_folder(client, start_folder_id):
     folder_name = ''
+    # startFolderが'0'の場合は、HOMEが探索起点と成る。その際、localにはDEFALUT_HOMEで指定したフォルダを作成する。
     if start_folder_id == '0':
         folder_name = DEFAULT_HOME
     else:
         root_folder = client.folder(folder_id=start_folder_id).get()
         folder_name = root_folder.name
-    # TODO もしフォルダが存在しなければ作成する(please append error chech!)
+    # もしLocalに開始フォルダが存在しなければ作成する
     try:
         os.chdir(BASE_OUTPUT)
         create_folder(folder_name)
@@ -229,10 +233,9 @@ def define_start_folder(client):
     戻り値：なし
 """    
 def run_examples(oauth):
-    global app_consts
-    
+    # create client instance.
     client = Client(oauth)
-    # TODO start folderが検索できて、かつ、変更できればベストかも。
+    # start folderを探索してそのIDを返します。もし存在しない場合は"0"が返されます。HOMEです。
     start_folder_id = define_start_folder(client)
     printlog(app_consts.START_FOLDER_ID_IS % (start_folder_id))
 
@@ -248,8 +251,8 @@ def run_examples(oauth):
     戻り値：値を変更したかどうかを返す。
 """
 def validate_parameters():
-    global MAX_SEARCH_NUMS,DEFAULT_HOME,BASE_OUTPUT,CLIENT_ID,CLIENT_SECRET
-    global app_consts
+    # When you update global var, you have to define the global <varname>
+    global MAX_SEARCH_NUMS,DEFAULT_HOME,BASE_OUTPUT
     
     change_value = False
     
@@ -280,14 +283,9 @@ def validate_parameters():
     戻り値：なし
 """
 def read_config():
+    # When you update global var, you have to define the global <varname>
     global config_agent
-    global MAX_SEARCH_NUMS
-    global DEFAULT_HOME
-    global BASE_OUTPUT
-    global START_FOLDER
-    global CLIENT_ID
-    global CLIENT_SECRET
-    global OTHER_PORT
+    global MAX_SEARCH_NUMS,DEFAULT_HOME,BASE_OUTPUT,START_FOLDER,CLIENT_ID,CLIENT_SECRET,OTHER_PORT
     
     config_agent=ConfigLoader.ConfigLoader()
     
@@ -300,21 +298,20 @@ def read_config():
     CLIENT_SECRET=config_agent.ClientSecret
     OTHER_PORT=config_agent.OtherPort
     
-    printlog('DEFAULT HOME:%s. BASE_OUTPUT_FOLDER:%s. START_FOLDER:%s, MAX_SEARCH_NUM:%s, CLIENT_ID:%s, CLIENT_SECRET:%s, OTHER_PORT:%s' 
+    printlog(app_consts.INIT_PARAMS 
              % (DEFAULT_HOME,BASE_OUTPUT,START_FOLDER,MAX_SEARCH_NUMS,CLIENT_ID,CLIENT_SECRET,OTHER_PORT))
     # call parameter check...
     changed = validate_parameters()
     # 変更があった（未指定のためデフォルト値をセットしたケース）場合はログに残す。
     if changed:
-        printlog('DEFAULT HOME:%s. BASE_OUTPUT_FOLDER:%s. START_FOLDER:%s, MAX_SEARCH_NUM:%s, CLIENT_ID:%s, CLIENT_SECRET:%s, OTHER_PORT:%s' 
+        printlog(app_consts.INIT_PARAMS 
              % (DEFAULT_HOME,BASE_OUTPUT,START_FOLDER,MAX_SEARCH_NUMS,CLIENT_ID,CLIENT_SECRET,OTHER_PORT))
         
 def main():
-    global app_consts
     # read configuration from file.
     read_config()
-    # Please notice that you need to put in your client id and client secret in demo/auth.py in order to make this work.
-
+    
+    # Execute app authentication. Must be set CLIENT_ID and CLIENT_SECRET into settings.ini.
     if OTHER_PORT:
         oauth, _, _ = authenticate(CLIENT_ID, CLIENT_SECRET, use_port=OTHER_PORT)
     else:
