@@ -105,7 +105,7 @@ def search_folder(client, folder_name):
         folder_name,
         limit=check_max_search_muns(),
         offset=0,
-        type='folder',
+        content_types='folder',
     )
     for item in search_results:
         item_with_name = item.get(fields=['name'])
