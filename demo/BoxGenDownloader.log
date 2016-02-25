@@ -1,12 +1,82 @@
-[2016/02/24 09:08:38.349306]BoxGenDownloader:DEFAULT HOME:rootFolder. BASE_OUTPUT_FOLDER:/Users/hiromi/Documents/eclipse_python/BoxGenManager/results/. START_FOLDER:TEST_FOLDER, MAX_SEARCH_NUM:20, CLIENT_ID:rx48zwkumuhxksnxdeoq7ziwgt8l0tbq, CLIENT_SECRET:yw70fHS5LU8TZFeHFhJXxwEBM0ZjPW8n, OTHER_PORT:
-[2016/02/24 09:08:48.243992]BoxGenDownloader:Searching...matched item name:TEST_FOLDER, id:1811939281 
-[2016/02/24 09:08:48.244274]BoxGenDownloader:Start folder id is [1811939281]
-[2016/02/24 09:08:48.506144]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/TEST_FOLDER
-[2016/02/24 09:08:48.722139]BoxGenDownloader:The root folder is owned by: okada@futurevision-llc.com
-[2016/02/24 09:08:49.002016]BoxGenDownloader:There is the first [20] items in this folder:[TEST_FOLDER]
-[2016/02/24 09:08:49.002118]BoxGenDownloader:1 INNER FOLDER
-[2016/02/24 09:08:49.002274]BoxGenDownloader:Call folder walking...next folder name is INNER FOLDER
-[2016/02/24 09:08:49.002600]BoxGenDownloader:Current folder is /Users/hiromi/Documents/eclipse_python/BoxGenManager/results/TEST_FOLDER/INNER FOLDER
-[2016/02/24 09:08:49.247291]BoxGenDownloader:The root folder is owned by: okada@futurevision-llc.com
-[2016/02/24 09:08:49.462082]BoxGenDownloader:There is the first [20] items in this folder:[INNER FOLDER]
-[2016/02/24 09:08:49.492065]BoxGenDownloader:2 ITEM_Create等イベントのテスト1.docx
+[2016/02/26 08:48:03.505288]BoxGenDownloader:DEFAULT HOME:rootFolder. BASE_OUTPUT_FOLDER:/Users/hiromi/Documents/work/boxgenapp/pythonApps/results/. START_FOLDER:TEST_FOLDER, MAX_SEARCH_NUM:20, CLIENT_ID:rx48zwkumuhxksnxdeoq7ziwgt8l0tbq, CLIENT_SECRET:yw70fHS5LU8TZFeHFhJXxwEBM0ZjPW8n, OTHER_PORT:
+[2016/02/26 08:48:03.505419]BoxGenDownloader:DEFAULT HOME:rootFolder. BASE_OUTPUT_FOLDER:/Users/hiromi/Documents/work/boxgenapp/pythonApps/results/. START_FOLDER:TEST_FOLDER, MAX_SEARCH_NUM:20, CLIENT_ID:rx48zwkumuhxksnxdeoq7ziwgt8l0tbq, CLIENT_SECRET:yw70fHS5LU8TZFeHFhJXxwEBM0ZjPW8n, OTHER_PORT:
+[2016/02/26 08:48:14.953785]BoxGenDownloader:Searching...matched item name:TEST_FOLDER, id:1811939281 
+[2016/02/26 08:48:14.954806]BoxGenDownloader:Searching...matched item name:TEST_FOLDER, id:1811939281 
+[2016/02/26 08:48:14.955035]BoxGenDownloader:Start folder id is [1811939281]
+[2016/02/26 08:48:14.955088]BoxGenDownloader:Start folder id is [1811939281]
+[2016/02/26 08:48:15.174669]BoxGenDownloader:Current folder is /Users/hiromi/Documents/work/boxgenapp/pythonApps/results/TEST_FOLDER
+[2016/02/26 08:48:15.174756]BoxGenDownloader:Current folder is /Users/hiromi/Documents/work/boxgenapp/pythonApps/results/TEST_FOLDER
+[2016/02/26 08:48:15.408500]BoxGenDownloader:The root folder is owned by: okada@futurevision-llc.com
+[2016/02/26 08:48:15.408587]BoxGenDownloader:The root folder is owned by: okada@futurevision-llc.com
+[2016/02/26 08:48:15.614021]BoxGenDownloader:There is the first [20] items in this folder:[TEST_FOLDER]
+[2016/02/26 08:48:15.614106]BoxGenDownloader:There is the first [20] items in this folder:[TEST_FOLDER]
+[2016/02/26 08:48:15.614182]BoxGenDownloader:1 INNER FOLDER
+[2016/02/26 08:48:15.614316]BoxGenDownloader:1 INNER FOLDER
+[2016/02/26 08:48:15.614400]BoxGenDownloader:Call folder walking...next folder name is INNER FOLDER
+[2016/02/26 08:48:15.614522]BoxGenDownloader:Call folder walking...next folder name is INNER FOLDER
+[2016/02/26 08:48:15.614763]BoxGenDownloader:Current folder is /Users/hiromi/Documents/work/boxgenapp/pythonApps/results/TEST_FOLDER/INNER FOLDER
+[2016/02/26 08:48:15.614900]BoxGenDownloader:Current folder is /Users/hiromi/Documents/work/boxgenapp/pythonApps/results/TEST_FOLDER/INNER FOLDER
+[2016/02/26 08:48:15.859345]BoxGenDownloader:The root folder is owned by: okada@futurevision-llc.com
+[2016/02/26 08:48:15.859430]BoxGenDownloader:The root folder is owned by: okada@futurevision-llc.com
+[2016/02/26 08:48:16.101692]BoxGenDownloader:There is the first [20] items in this folder:[INNER FOLDER]
+[2016/02/26 08:48:16.101774]BoxGenDownloader:There is the first [20] items in this folder:[INNER FOLDER]
+[2016/02/26 08:48:16.111132]BoxGenDownloader:2 ITEM_Create等イベントのテスト1.docx
+[2016/02/26 08:48:16.111341]BoxGenDownloader:2 ITEM_Create等イベントのテスト1.docx
+[2016/02/26 08:48:16.298010]BoxGenDownloader:{u'sha1': u'e823d7ca3db006606ff2181080897b14aeeb7c6e', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'ITEM_Create\u7b49\u30a4\u30d8\u3099\u30f3\u30c8\u306e\u30c6\u30b9\u30c81.docx', u'created_at': u'2016-01-27T16:41:29-08:00', u'modified_at': u'2016-01-27T17:15:42-08:00', u'type': u'file_version', u'id': u'52728363405', u'size': 31499}
+[2016/02/26 08:48:16.298112]BoxGenDownloader:{u'sha1': u'e823d7ca3db006606ff2181080897b14aeeb7c6e', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'ITEM_Create\u7b49\u30a4\u30d8\u3099\u30f3\u30c8\u306e\u30c6\u30b9\u30c81.docx', u'created_at': u'2016-01-27T16:41:29-08:00', u'modified_at': u'2016-01-27T17:15:42-08:00', u'type': u'file_version', u'id': u'52728363405', u'size': 31499}
+[2016/02/26 08:48:16.298299]BoxGenDownloader:Download file is ITEM_Create等イベントのテスト1.docx
+[2016/02/26 08:48:16.298369]BoxGenDownloader:Download file is ITEM_Create等イベントのテスト1.docx
+[2016/02/26 08:48:17.851083]BoxGenDownloader:3 さあスクリーンショット 2016-01-28 17.47.13.png
+[2016/02/26 08:48:17.851401]BoxGenDownloader:3 さあスクリーンショット 2016-01-28 17.47.13.png
+[2016/02/26 08:48:18.079513]BoxGenDownloader:{u'sha1': u'b48fdc9ada8c7bfc75f8c67fa86d505cacf97408', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8 2016-01-28 17.47.13.png', u'created_at': u'2016-01-28T16:59:14-08:00', u'modified_at': u'2016-01-28T16:59:14-08:00', u'type': u'file_version', u'id': u'52884981209', u'size': 1810965}
+[2016/02/26 08:48:18.079621]BoxGenDownloader:{u'sha1': u'b48fdc9ada8c7bfc75f8c67fa86d505cacf97408', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8 2016-01-28 17.47.13.png', u'created_at': u'2016-01-28T16:59:14-08:00', u'modified_at': u'2016-01-28T16:59:14-08:00', u'type': u'file_version', u'id': u'52884981209', u'size': 1810965}
+[2016/02/26 08:48:18.079762]BoxGenDownloader:Download file is スクリーンショット 2016-01-28 17.47.13.png
+[2016/02/26 08:48:18.079867]BoxGenDownloader:Download file is スクリーンショット 2016-01-28 17.47.13.png
+[2016/02/26 08:48:20.163986]BoxGenDownloader:Current folder is /Users/hiromi/Documents/work/boxgenapp/pythonApps/results/TEST_FOLDER
+[2016/02/26 08:48:20.164116]BoxGenDownloader:Current folder is /Users/hiromi/Documents/work/boxgenapp/pythonApps/results/TEST_FOLDER
+[2016/02/26 08:48:20.164229]BoxGenDownloader:4 aaaren_tmp213220199.txt
+[2016/02/26 08:48:20.164292]BoxGenDownloader:4 aaaren_tmp213220199.txt
+[2016/02/26 08:48:20.362005]BoxGenDownloader:{u'sha1': u'ecb252044b5ea0f679ee78ec1a12904739e2904d', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'tmp213220199.txt', u'created_at': u'2014-04-09T01:37:50-07:00', u'modified_at': u'2014-04-09T21:01:12-07:00', u'type': u'file_version', u'id': u'13280868159', u'size': 6}
+[2016/02/26 08:48:20.362107]BoxGenDownloader:{u'sha1': u'ecb252044b5ea0f679ee78ec1a12904739e2904d', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'tmp213220199.txt', u'created_at': u'2014-04-09T01:37:50-07:00', u'modified_at': u'2014-04-09T21:01:12-07:00', u'type': u'file_version', u'id': u'13280868159', u'size': 6}
+[2016/02/26 08:48:20.362285]BoxGenDownloader:Download file is tmp213220199.txt
+[2016/02/26 08:48:20.362411]BoxGenDownloader:Download file is tmp213220199.txt
+[2016/02/26 08:48:21.061297]BoxGenDownloader:5 create_doc_test_part.docx
+[2016/02/26 08:48:21.061402]BoxGenDownloader:5 create_doc_test_part.docx
+[2016/02/26 08:48:21.254909]BoxGenDownloader:{u'sha1': u'd63be56ec3d3e071c09177ea37aa639bde3eb96c', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'create_doc_test_part.docx', u'created_at': u'2016-02-03T23:45:22-08:00', u'modified_at': u'2016-02-03T23:45:22-08:00', u'type': u'file_version', u'id': u'53710846437', u'size': 23469}
+[2016/02/26 08:48:21.255005]BoxGenDownloader:{u'sha1': u'd63be56ec3d3e071c09177ea37aa639bde3eb96c', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'create_doc_test_part.docx', u'created_at': u'2016-02-03T23:45:22-08:00', u'modified_at': u'2016-02-03T23:45:22-08:00', u'type': u'file_version', u'id': u'53710846437', u'size': 23469}
+[2016/02/26 08:48:21.255188]BoxGenDownloader:Download file is create_doc_test_part.docx
+[2016/02/26 08:48:21.255279]BoxGenDownloader:Download file is create_doc_test_part.docx
+[2016/02/26 08:48:21.861310]BoxGenDownloader:6 Eventの違いメモ.boxnote
+[2016/02/26 08:48:21.861436]BoxGenDownloader:6 Eventの違いメモ.boxnote
+[2016/02/26 08:48:22.062692]BoxGenDownloader:{u'sha1': u'a893fc621d58a65019e5083bb11e992de187ae26', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'Event\u306e\u9055\u3044\u30e1\u30e2.boxnote', u'created_at': u'2016-02-02T14:58:40-08:00', u'modified_at': u'2016-02-02T14:58:40-08:00', u'type': u'file_version', u'id': u'53486758657', u'size': 2390}
+[2016/02/26 08:48:22.062817]BoxGenDownloader:{u'sha1': u'a893fc621d58a65019e5083bb11e992de187ae26', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'Event\u306e\u9055\u3044\u30e1\u30e2.boxnote', u'created_at': u'2016-02-02T14:58:40-08:00', u'modified_at': u'2016-02-02T14:58:40-08:00', u'type': u'file_version', u'id': u'53486758657', u'size': 2390}
+[2016/02/26 08:48:22.063014]BoxGenDownloader:Download file is Eventの違いメモ.boxnote
+[2016/02/26 08:48:22.063175]BoxGenDownloader:Download file is Eventの違いメモ.boxnote
+[2016/02/26 08:48:22.781976]BoxGenDownloader:7 IMG_20140414_145132.jpg
+[2016/02/26 08:48:22.782083]BoxGenDownloader:7 IMG_20140414_145132.jpg
+[2016/02/26 08:48:22.984067]BoxGenDownloader:No version informations..
+[2016/02/26 08:48:22.984185]BoxGenDownloader:No version informations..
+[2016/02/26 08:48:22.984348]BoxGenDownloader:File don't have version
+[2016/02/26 08:48:22.984470]BoxGenDownloader:File don't have version
+[2016/02/26 08:48:22.984612]BoxGenDownloader:8 IMG_20140414_154942.jpg
+[2016/02/26 08:48:22.984720]BoxGenDownloader:8 IMG_20140414_154942.jpg
+[2016/02/26 08:48:23.183798]BoxGenDownloader:No version informations..
+[2016/02/26 08:48:23.183920]BoxGenDownloader:No version informations..
+[2016/02/26 08:48:23.184075]BoxGenDownloader:File don't have version
+[2016/02/26 08:48:23.184162]BoxGenDownloader:File don't have version
+[2016/02/26 08:48:23.184347]BoxGenDownloader:9 tmp801479810.txt
+[2016/02/26 08:48:23.184463]BoxGenDownloader:9 tmp801479810.txt
+[2016/02/26 08:48:23.370381]BoxGenDownloader:{u'sha1': u'28ada3213fd3bab36034c35dd576875b4259250b', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'tmp801479810.txt', u'created_at': u'2016-02-05T00:10:49-08:00', u'modified_at': u'2016-02-05T00:10:49-08:00', u'type': u'file_version', u'id': u'53885033569', u'size': 124}
+[2016/02/26 08:48:23.370501]BoxGenDownloader:{u'sha1': u'28ada3213fd3bab36034c35dd576875b4259250b', u'modified_by': {u'login': u'okada@futurevision-llc.com', u'type': u'user', u'id': u'211106729', u'name': u'Okada'}, u'name': u'tmp801479810.txt', u'created_at': u'2016-02-05T00:10:49-08:00', u'modified_at': u'2016-02-05T00:10:49-08:00', u'type': u'file_version', u'id': u'53885033569', u'size': 124}
+[2016/02/26 08:48:23.370659]BoxGenDownloader:Download file is tmp801479810.txt
+[2016/02/26 08:48:23.370743]BoxGenDownloader:Download file is tmp801479810.txt
+[2016/02/26 08:48:24.375205]BoxGenDownloader:10 スクリーンショット 2016-02-10 9.29.27.png
+[2016/02/26 08:48:24.375298]BoxGenDownloader:10 スクリーンショット 2016-02-10 9.29.27.png
+[2016/02/26 08:48:24.561569]BoxGenDownloader:No version informations..
+[2016/02/26 08:48:24.561657]BoxGenDownloader:No version informations..
+[2016/02/26 08:48:24.561728]BoxGenDownloader:File don't have version
+[2016/02/26 08:48:24.561865]BoxGenDownloader:File don't have version
+[2016/02/26 08:48:24.562128]BoxGenDownloader:Current folder is /Users/hiromi/Documents/work/boxgenapp/pythonApps/results
+[2016/02/26 08:48:24.562191]BoxGenDownloader:Current folder is /Users/hiromi/Documents/work/boxgenapp/pythonApps/results
+[2016/02/26 08:48:24.568560]BoxGenDownloader:Generation File DownLoader ended!
+[2016/02/26 08:48:24.568629]BoxGenDownloader:Generation File DownLoader ended!

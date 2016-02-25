@@ -53,7 +53,7 @@ OTHER_PORT=None
 def printlog(message):
     global TAG
     global log_agent
-    print(message)
+    log_agent.printx(TAG, message)
     log_agent.printlog(TAG, message)
         
 """
