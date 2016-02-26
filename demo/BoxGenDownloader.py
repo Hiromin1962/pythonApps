@@ -53,9 +53,11 @@ OTHER_PORT=None
 def printlog(message):
     global TAG
     global log_agent
-    log_agent.printx(TAG, message)
-    log_agent.printlog(TAG, message)
-        
+    try:
+        log_agent.printx(TAG, message)
+    except Exception as e:
+        print(e)
+    
 """
     Version情報を取得します。存在する場合は直近のversion情報だけを返します。
     引数：client :Box Client
