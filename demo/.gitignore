@@ -7,5 +7,3 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-# setting file
-/settings.ini
