@@ -2,3 +2,6 @@
 /LogUtils.pyc
 /__init__.pyc
 /auth.pyc
+/BoxGenDownloader.log
+/.DS_Store
+/__pycache__
