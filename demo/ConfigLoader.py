@@ -46,7 +46,7 @@ class ConfigLoader(object):
         del self.__DefaultHome
 
     def get_start_folder(self):
-        return self.__StartFolder
+        return self.__StartFolder.decode('utf-8')
 
     def set_start_folder(self, value):
         self.__StartFolder = value
